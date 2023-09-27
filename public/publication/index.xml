@@ -2,1341 +2,1341 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | </title>
-    <link>https://weiting95.github.io/publication/</link>
-      <atom:link href="https://weiting95.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://weiting95.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
-      <link>https://weiting95.github.io/publication/</link>
+      <link>/publication/</link>
     </image>
     
     <item>
       <title>Beyond Key-Based Authentication: A Novel Continuous Authentication Paradigm for IoTs</title>
-      <link>https://weiting95.github.io/publication/conf93/</link>
+      <link>/publication/conf93/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf93/</guid>
+      <guid>/publication/conf93/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design and Performance Analysis of Cache‐Enabled Multicast in UAV‐Enhanced Cellular Networks</title>
-      <link>https://weiting95.github.io/publication/journal73/</link>
+      <link>/publication/journal73/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal73/</guid>
+      <guid>/publication/journal73/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Joint Active and Passive Beamforming for IRS‐assisted Monostatic Backscatter Systems: An Unsupervised Learning Approach</title>
-      <link>https://weiting95.github.io/publication/journal72/</link>
+      <link>/publication/journal72/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal72/</guid>
+      <guid>/publication/journal72/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Outage Performance of Multi‐Tier UAV Communication With Random Beam Misalignment</title>
-      <link>https://weiting95.github.io/publication/journal69/</link>
+      <link>/publication/journal69/</link>
       <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal69/</guid>
+      <guid>/publication/journal69/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Access-Based Lightweight Physical Layer Authentication for the Internet of Things Devices</title>
-      <link>https://weiting95.github.io/publication/journal70/</link>
+      <link>/publication/journal70/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal70/</guid>
+      <guid>/publication/journal70/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adaptive Multiuser Access for UAV-assisted IoT Monitoring Networks Under Bursty Traffic</title>
-      <link>https://weiting95.github.io/publication/conf92/</link>
+      <link>/publication/conf92/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf92/</guid>
+      <guid>/publication/conf92/</guid>
       <description></description>
     </item>
     
     <item>
       <title>UAV-assisted IoT Monitoring Network: Adaptive Multiuser Access for Low-Latency and High-Reliability Under Bursty Traffic</title>
-      <link>https://weiting95.github.io/publication/journal71/</link>
+      <link>/publication/journal71/</link>
       <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal71/</guid>
+      <guid>/publication/journal71/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Joint User and Data Detection in Grant-Free NOMA with Attention-based BiLSTM Network</title>
-      <link>https://weiting95.github.io/publication/journal67/</link>
+      <link>/publication/journal67/</link>
       <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal67/</guid>
+      <guid>/publication/journal67/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design of Intelligent Reflecting Surface (IRS)-Boosted Ambient Backscatter Systems</title>
-      <link>https://weiting95.github.io/publication/journal65/</link>
+      <link>/publication/journal65/</link>
       <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal65/</guid>
+      <guid>/publication/journal65/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Energy Efficiency Optimization for Multiple Access in NOMA-Enabled Space-Air-Ground Networks</title>
-      <link>https://weiting95.github.io/publication/journal68/</link>
+      <link>/publication/journal68/</link>
       <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal68/</guid>
+      <guid>/publication/journal68/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adaptive Sub-band Bandwidth-Enabled Spectrum Allocation for Terahertz Communication Systems</title>
-      <link>https://weiting95.github.io/publication/conf89/</link>
+      <link>/publication/conf89/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf89/</guid>
+      <guid>/publication/conf89/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Learning Based Passive Beamforming for IRS-assisted Monostatic Backscatter Systems</title>
-      <link>https://weiting95.github.io/publication/conf88/</link>
+      <link>/publication/conf88/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf88/</guid>
+      <guid>/publication/conf88/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Federated Learning Cost Disparity for IoT Devices</title>
-      <link>https://weiting95.github.io/publication/conf91/</link>
+      <link>/publication/conf91/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf91/</guid>
+      <guid>/publication/conf91/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SWIPT-Enabled Cellular-Connected UAV: Energy Harvesting and Data Transmission</title>
-      <link>https://weiting95.github.io/publication/conf90/</link>
+      <link>/publication/conf90/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf90/</guid>
+      <guid>/publication/conf90/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Federated Learning Cost Disparity for IoT Devices</title>
-      <link>https://weiting95.github.io/publication/journal66/</link>
+      <link>/publication/journal66/</link>
       <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal66/</guid>
+      <guid>/publication/journal66/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spectrum Allocation with Adaptive Sub‐band Bandwidth for Terahertz Communication Systems</title>
-      <link>https://weiting95.github.io/publication/journal63/</link>
+      <link>/publication/journal63/</link>
       <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal63/</guid>
+      <guid>/publication/journal63/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transfer Learning Based Detection for Intelligent Reflecting Surface Aided Communications</title>
-      <link>https://weiting95.github.io/publication/conf87/</link>
+      <link>/publication/conf87/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf87/</guid>
+      <guid>/publication/conf87/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Performance-Fairness Trade-off for Wi-Fi and LTE-LAA Coexistence</title>
-      <link>https://weiting95.github.io/publication/journal61/</link>
+      <link>/publication/journal61/</link>
       <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal61/</guid>
+      <guid>/publication/journal61/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coverage Analysis for 3D Terahertz Communication Systems</title>
-      <link>https://weiting95.github.io/publication/journal62/</link>
+      <link>/publication/journal62/</link>
       <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal62/</guid>
+      <guid>/publication/journal62/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design of Ambient Backscatter Training for Retrodirective Wireless Power Transfer</title>
-      <link>https://weiting95.github.io/publication/journal60/</link>
+      <link>/publication/journal60/</link>
       <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal60/</guid>
+      <guid>/publication/journal60/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Retrodirective Wireless Power Transfer Scheme for Ambient Backscatter Systems</title>
-      <link>https://weiting95.github.io/publication/conf84/</link>
+      <link>/publication/conf84/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf84/</guid>
+      <guid>/publication/conf84/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coverage Analysis for 3D Terahertz Communication Systems with Blockage and Directional Antennas</title>
-      <link>https://weiting95.github.io/publication/conf86/</link>
+      <link>/publication/conf86/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf86/</guid>
+      <guid>/publication/conf86/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Impact of UAV Trajectory on NOMA-Assisted Cellular-Connected UAV Networks</title>
-      <link>https://weiting95.github.io/publication/conf85/</link>
+      <link>/publication/conf85/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf85/</guid>
+      <guid>/publication/conf85/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Proportionally-Fair Sequencing and Scheduling for Machine-Type Communication</title>
-      <link>https://weiting95.github.io/publication/conf83/</link>
+      <link>/publication/conf83/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf83/</guid>
+      <guid>/publication/conf83/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Uplink NOMA for Cellular-Connected UAV: Impact of UAV Trajectories and Altitude</title>
-      <link>https://weiting95.github.io/publication/journal59/</link>
+      <link>/publication/journal59/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal59/</guid>
+      <guid>/publication/journal59/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sequencing and Scheduling for Multi-User Machine-Type Communication</title>
-      <link>https://weiting95.github.io/publication/journal58/</link>
+      <link>/publication/journal58/</link>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal58/</guid>
+      <guid>/publication/journal58/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Drone-Assisted Multihop Multicast Device-to-Device Networks for Emergency Information Dissemination</title>
-      <link>https://weiting95.github.io/publication/journal57/</link>
+      <link>/publication/journal57/</link>
       <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal57/</guid>
+      <guid>/publication/journal57/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wireless Powered Machine-Type Communication: Energy Minimization via Compressed Transmission</title>
-      <link>https://weiting95.github.io/publication/conf82/</link>
+      <link>/publication/conf82/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf82/</guid>
+      <guid>/publication/conf82/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Monostatic Backscatter System with Multi-Tag to Reader Communication</title>
-      <link>https://weiting95.github.io/publication/journal56/</link>
+      <link>/publication/journal56/</link>
       <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal56/</guid>
+      <guid>/publication/journal56/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distance Distribution Between Two Random Nodes in Arbitrary Polygons</title>
-      <link>https://weiting95.github.io/publication/journal64/</link>
+      <link>/publication/journal64/</link>
       <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal64/</guid>
+      <guid>/publication/journal64/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Joint Channel and Phase Noise Estimation for mmWave Full-Duplex Communication Systems</title>
-      <link>https://weiting95.github.io/publication/journal53/</link>
+      <link>/publication/journal53/</link>
       <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal53/</guid>
+      <guid>/publication/journal53/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Lifetime Maximization Scheme for a Sensor-Based MTC Device</title>
-      <link>https://weiting95.github.io/publication/conf81/</link>
+      <link>/publication/conf81/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf81/</guid>
+      <guid>/publication/conf81/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Underlay Drone Cell for Temporary Events: Impact of Drone Height and Aerial Channel Environments</title>
-      <link>https://weiting95.github.io/publication/journal55/</link>
+      <link>/publication/journal55/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal55/</guid>
+      <guid>/publication/journal55/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimal Compression and Transmission Rate Control for Node-Lifetime Maximization</title>
-      <link>https://weiting95.github.io/publication/journal50/</link>
+      <link>/publication/journal50/</link>
       <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal50/</guid>
+      <guid>/publication/journal50/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spectral and Energy Efficiency Maximization for Content-Centric C-RANs with Edge Caching</title>
-      <link>https://weiting95.github.io/publication/journal51/</link>
+      <link>/publication/journal51/</link>
       <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal51/</guid>
+      <guid>/publication/journal51/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design of Non-orthogonal Multiple Access Enhanced Backscatter Communication</title>
-      <link>https://weiting95.github.io/publication/journal49/</link>
+      <link>/publication/journal49/</link>
       <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal49/</guid>
+      <guid>/publication/journal49/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Backscatter Communications with NOMA</title>
-      <link>https://weiting95.github.io/publication/conf80/</link>
+      <link>/publication/conf80/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf80/</guid>
+      <guid>/publication/conf80/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wireless Power Transfer via mmWave Power Beacons with Directional Beamforming</title>
-      <link>https://weiting95.github.io/publication/journal52/</link>
+      <link>/publication/journal52/</link>
       <pubDate>Thu, 14 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal52/</guid>
+      <guid>/publication/journal52/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Energy-Efficiency Maximization for Downlink Cloud Radio Access Networks with Data Sharing and Data Compression</title>
-      <link>https://weiting95.github.io/publication/journal48/</link>
+      <link>/publication/journal48/</link>
       <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal48/</guid>
+      <guid>/publication/journal48/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Energy‐Efficient Design for Downlink Cloud Radio Access Networks</title>
-      <link>https://weiting95.github.io/publication/conf78/</link>
+      <link>/publication/conf78/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf78/</guid>
+      <guid>/publication/conf78/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Uplink Coverage Performance of an Underlay Drone Cell for Temporary Events</title>
-      <link>https://weiting95.github.io/publication/conf79/</link>
+      <link>/publication/conf79/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf79/</guid>
+      <guid>/publication/conf79/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enhancing CRDSA with Transmit Power Diversity for Machine-Type Communication</title>
-      <link>https://weiting95.github.io/publication/journal47/</link>
+      <link>/publication/journal47/</link>
       <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal47/</guid>
+      <guid>/publication/journal47/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Joint Optimization of User Association, Data Delivery Rate and Precoding for cache‐enabled F‐RANs</title>
-      <link>https://weiting95.github.io/publication/conf76/</link>
+      <link>/publication/conf76/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf76/</guid>
+      <guid>/publication/conf76/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine‐Type Communication with Random Access and Data Aggregation: A Stochastic Geometry Approach</title>
-      <link>https://weiting95.github.io/publication/conf75/</link>
+      <link>/publication/conf75/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf75/</guid>
+      <guid>/publication/conf75/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Time‐Hopping Multiple‐Access for Backscatter Interference Networks</title>
-      <link>https://weiting95.github.io/publication/conf77/</link>
+      <link>/publication/conf77/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf77/</guid>
+      <guid>/publication/conf77/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Power Beacon-Assisted Millimeter Wave Ad Hoc Networks</title>
-      <link>https://weiting95.github.io/publication/journal46/</link>
+      <link>/publication/journal46/</link>
       <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal46/</guid>
+      <guid>/publication/journal46/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analytical Framework for Access Class Barring in Machine Type Communication</title>
-      <link>https://weiting95.github.io/publication/conf74/</link>
+      <link>/publication/conf74/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf74/</guid>
+      <guid>/publication/conf74/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Underlay D2D Communication in a Finite Cellular Network with Exclusion Zone</title>
-      <link>https://weiting95.github.io/publication/conf73/</link>
+      <link>/publication/conf73/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf73/</guid>
+      <guid>/publication/conf73/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Base Station Preference Association with Network Dynamics</title>
-      <link>https://weiting95.github.io/publication/conf72/</link>
+      <link>/publication/conf72/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf72/</guid>
+      <guid>/publication/conf72/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Massive Machine Type Communication with Data Aggregation and Resource Scheduling</title>
-      <link>https://weiting95.github.io/publication/journal44/</link>
+      <link>/publication/journal44/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal44/</guid>
+      <guid>/publication/journal44/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Characterization of Aggregate Received Power from Power Beacons in Millimeter Wave Ad Hoc Networks</title>
-      <link>https://weiting95.github.io/publication/conf71/</link>
+      <link>/publication/conf71/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf71/</guid>
+      <guid>/publication/conf71/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Residual Self‐interference Cancellation and Data Detection in Full‐Duplex Communication Systems</title>
-      <link>https://weiting95.github.io/publication/conf70/</link>
+      <link>/publication/conf70/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf70/</guid>
+      <guid>/publication/conf70/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Novel Receiver Design with Joint Coherent and Non-Coherent Processing</title>
-      <link>https://weiting95.github.io/publication/journal43/</link>
+      <link>/publication/journal43/</link>
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal43/</guid>
+      <guid>/publication/journal43/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Full-Duplex Backscatter Interference Networks Based on Time-Hopping Spread Spectrum</title>
-      <link>https://weiting95.github.io/publication/journal42/</link>
+      <link>/publication/journal42/</link>
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal42/</guid>
+      <guid>/publication/journal42/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving the Spatial Dimensionality of Gauss‐Legendre and Equiangular Sampling Schemes on the Sphere</title>
-      <link>https://weiting95.github.io/publication/conf69/</link>
+      <link>/publication/conf69/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf69/</guid>
+      <guid>/publication/conf69/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Next Generation Backscatter Communication: Systems, Techniques and Applications</title>
-      <link>https://weiting95.github.io/publication/journal54/</link>
+      <link>/publication/journal54/</link>
       <pubDate>Thu, 26 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal54/</guid>
+      <guid>/publication/journal54/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Superimposed Signaling Inspired Channel Estimation in Full-Duplex Systems</title>
-      <link>https://weiting95.github.io/publication/journal45/</link>
+      <link>/publication/journal45/</link>
       <pubDate>Wed, 28 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal45/</guid>
+      <guid>/publication/journal45/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Proposed Network Balance Index for Heterogeneous Networks</title>
-      <link>https://weiting95.github.io/publication/journal41/</link>
+      <link>/publication/journal41/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal41/</guid>
+      <guid>/publication/journal41/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effects of Load Dependent Dynamic Biasing and Association Order for Cell Range Expansion</title>
-      <link>https://weiting95.github.io/publication/conf67/</link>
+      <link>/publication/conf67/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf67/</guid>
+      <guid>/publication/conf67/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Outage Analysis of Underlaid Multi‐Antenna D2D Communication in Cellular Networks</title>
-      <link>https://weiting95.github.io/publication/conf68/</link>
+      <link>/publication/conf68/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf68/</guid>
+      <guid>/publication/conf68/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Device-to-Device Communication Underlaying a Finite Cellular Network Region</title>
-      <link>https://weiting95.github.io/publication/journal40/</link>
+      <link>/publication/journal40/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal40/</guid>
+      <guid>/publication/journal40/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SER Analysis of Lattice Coded Multi-way Relay Networks in the Presence of Imperfect Channel Estimation</title>
-      <link>https://weiting95.github.io/publication/journal39/</link>
+      <link>/publication/journal39/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal39/</guid>
+      <guid>/publication/journal39/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Timing and Carrier Synchronization in Wireless Communication Systems: A Survey and Classification of Research in the Last 5 Years</title>
-      <link>https://weiting95.github.io/publication/journal35/</link>
+      <link>/publication/journal35/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal35/</guid>
+      <guid>/publication/journal35/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mode Selection, Resource Allocation and Power Control for D2D-Enabled Two-Tier Cellular Network</title>
-      <link>https://weiting95.github.io/publication/journal37/</link>
+      <link>/publication/journal37/</link>
       <pubDate>Mon, 13 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal37/</guid>
+      <guid>/publication/journal37/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Path-Following Algorithms for Beamforming and Signal Splitting in RF Energy Harvesting Networks</title>
-      <link>https://weiting95.github.io/publication/journal38/</link>
+      <link>/publication/journal38/</link>
       <pubDate>Thu, 09 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal38/</guid>
+      <guid>/publication/journal38/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SWIPT with Practical Modulation and RF Energy Harvesting Sensitivity</title>
-      <link>https://weiting95.github.io/publication/conf66/</link>
+      <link>/publication/conf66/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf66/</guid>
+      <guid>/publication/conf66/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Non‐Coherent FSK: An Attractive Modulation Set for Millimeter‐Wave Communications</title>
-      <link>https://weiting95.github.io/publication/conf64/</link>
+      <link>/publication/conf64/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf64/</guid>
+      <guid>/publication/conf64/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Secure Beamforming for Max‐Min SINR in Multi‐Cell SWIPT Systems</title>
-      <link>https://weiting95.github.io/publication/conf65/</link>
+      <link>/publication/conf65/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf65/</guid>
+      <guid>/publication/conf65/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Energy Harvesting Wireless Sensor Networks: Delay Analysis Considering Energy Costs of Sensing and Transmission</title>
-      <link>https://weiting95.github.io/publication/journal34/</link>
+      <link>/publication/journal34/</link>
       <pubDate>Thu, 17 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal34/</guid>
+      <guid>/publication/journal34/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Graphical Generalization of Power Control in Multiuser Interference Channels</title>
-      <link>https://weiting95.github.io/publication/conf63/</link>
+      <link>/publication/conf63/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf63/</guid>
+      <guid>/publication/conf63/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi‐pair Two‐way Relay Networks: Interference Management Using Lattice Codes and Amplify and Compute Relaying</title>
-      <link>https://weiting95.github.io/publication/conf62/</link>
+      <link>/publication/conf62/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf62/</guid>
+      <guid>/publication/conf62/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Iterative Optimization for Max‐Min SINR in Dense Small‐Cell Multiuser MISO SWIPT System</title>
-      <link>https://weiting95.github.io/publication/conf60/</link>
+      <link>/publication/conf60/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf60/</guid>
+      <guid>/publication/conf60/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Performance of Wireless‐Powered Sensor Transmission Considering Energy Cost of Sensing</title>
-      <link>https://weiting95.github.io/publication/conf61/</link>
+      <link>/publication/conf61/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf61/</guid>
+      <guid>/publication/conf61/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gauss-Legendre Sampling on the Rotation Group</title>
-      <link>https://weiting95.github.io/publication/journal33/</link>
+      <link>/publication/journal33/</link>
       <pubDate>Tue, 24 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal33/</guid>
+      <guid>/publication/journal33/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interference Nulling for Offloaded Heterogeneous Users Using Macro Generalized Inverse Precoder</title>
-      <link>https://weiting95.github.io/publication/conf58/</link>
+      <link>/publication/conf58/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf58/</guid>
+      <guid>/publication/conf58/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wireless‐Powered Friendly Jammer for Physical Layer Security</title>
-      <link>https://weiting95.github.io/publication/conf59/</link>
+      <link>/publication/conf59/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf59/</guid>
+      <guid>/publication/conf59/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Secure Communication with a Wireless-Powered Friendly Jammer</title>
-      <link>https://weiting95.github.io/publication/journal32/</link>
+      <link>/publication/journal32/</link>
       <pubDate>Fri, 28 Aug 2015 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal32/</guid>
+      <guid>/publication/journal32/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Joint Resource Optimization for Heterogeneous Multicell Networks with Wireless Energy Harvesting Relays</title>
-      <link>https://weiting95.github.io/publication/journal36/</link>
+      <link>/publication/journal36/</link>
       <pubDate>Mon, 24 Aug 2015 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal36/</guid>
+      <guid>/publication/journal36/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Novel User Pairing Scheme for Functional Decode-and-Forward Multi-way Relay Network</title>
-      <link>https://weiting95.github.io/publication/journal31/</link>
+      <link>/publication/journal31/</link>
       <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal31/</guid>
+      <guid>/publication/journal31/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Performance Comparison of Device‐to‐Device Mode Selection Schemes</title>
-      <link>https://weiting95.github.io/publication/conf57/</link>
+      <link>/publication/conf57/</link>
       <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf57/</guid>
+      <guid>/publication/conf57/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Performance of Maximum Ratio Transmission in Ad Hoc Networks with Wireless Energy Harvesting</title>
-      <link>https://weiting95.github.io/publication/journal30/</link>
+      <link>/publication/journal30/</link>
       <pubDate>Mon, 06 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal30/</guid>
+      <guid>/publication/journal30/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Block‐Wise Time‐Switching Energy Harvesting Protocol for Wireless‐Powered AF Relays</title>
-      <link>https://weiting95.github.io/publication/conf56/</link>
+      <link>/publication/conf56/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf56/</guid>
+      <guid>/publication/conf56/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computing Exact Closed-Form Distance Distributions in Arbitrarily-Shaped Polygons with Arbitrary Reference Point</title>
-      <link>https://weiting95.github.io/publication/journal28/</link>
+      <link>/publication/journal28/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal28/</guid>
+      <guid>/publication/journal28/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sum Throughput Maximization for Heterogeneous Multicell Networks with RF‐Powered Relays</title>
-      <link>https://weiting95.github.io/publication/conf55/</link>
+      <link>/publication/conf55/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf55/</guid>
+      <guid>/publication/conf55/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Outage Probability of Ad Hoc Networks with Wireless Information and Power Transfer</title>
-      <link>https://weiting95.github.io/publication/journal29/</link>
+      <link>/publication/journal29/</link>
       <pubDate>Tue, 28 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal29/</guid>
+      <guid>/publication/journal29/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Call Completion Probability in Heterogeneous Networks with Energy Harvesting Base Stations</title>
-      <link>https://weiting95.github.io/publication/conf54/</link>
+      <link>/publication/conf54/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf54/</guid>
+      <guid>/publication/conf54/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DC Programming for Power Minimization in a Heterogeneous Network with RF‐Powered Relays</title>
-      <link>https://weiting95.github.io/publication/conf53/</link>
+      <link>/publication/conf53/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf53/</guid>
+      <guid>/publication/conf53/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi‐group Multi‐way Relaying with Multi‐stage Non‐Regenerative Relay Stations</title>
-      <link>https://weiting95.github.io/publication/conf52/</link>
+      <link>/publication/conf52/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf52/</guid>
+      <guid>/publication/conf52/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interference Suppression using Generalized Inverse Precoder for Downlink Heterogeneous Networks</title>
-      <link>https://weiting95.github.io/publication/journal27/</link>
+      <link>/publication/journal27/</link>
       <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal27/</guid>
+      <guid>/publication/journal27/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wireless-Powered Relays in Cooperative Communications: Time-Switching Relaying Protocols and Throughput Analysis</title>
-      <link>https://weiting95.github.io/publication/journal26/</link>
+      <link>/publication/journal26/</link>
       <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal26/</guid>
+      <guid>/publication/journal26/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Performance Analysis of Arbitrarily-Shaped Underlay Cognitive Networks: Effect of Secondary User Activity Protocols</title>
-      <link>https://weiting95.github.io/publication/journal25/</link>
+      <link>/publication/journal25/</link>
       <pubDate>Mon, 22 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal25/</guid>
+      <guid>/publication/journal25/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimum Power Allocation for Sum Rate Improvement in AF Multi‐way Relay Networks</title>
-      <link>https://weiting95.github.io/publication/conf51/</link>
+      <link>/publication/conf51/</link>
       <pubDate>Mon, 15 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf51/</guid>
+      <guid>/publication/conf51/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Performance Analysis of Arbitrarily‐Shaped Underlay Cognitive Networks: Effect of Secondary User Activity Protocols</title>
-      <link>https://weiting95.github.io/publication/conf50/</link>
+      <link>/publication/conf50/</link>
       <pubDate>Mon, 08 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf50/</guid>
+      <guid>/publication/conf50/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Channel, Phase Noise, and Frequency Offset in OFDM Systems: Joint Estimation, Data Detection, and Hybrid Cramer-Rao Lower Bound</title>
-      <link>https://weiting95.github.io/publication/journal24/</link>
+      <link>/publication/journal24/</link>
       <pubDate>Thu, 31 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal24/</guid>
+      <guid>/publication/journal24/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Novel Pairing Scheme to Reduce Error Propagation in an Amplify and Forward Multi‐way Relay Network</title>
-      <link>https://weiting95.github.io/publication/conf48/</link>
+      <link>/publication/conf48/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf48/</guid>
+      <guid>/publication/conf48/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adaptive Multi‐Resolution Windowing Technique for Localized Spatio‐Spectral Analysis</title>
-      <link>https://weiting95.github.io/publication/conf49/</link>
+      <link>/publication/conf49/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf49/</guid>
+      <guid>/publication/conf49/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Throughput and Ergodic capacity of Wireless Energy Harvesting Based DF Relaying Network</title>
-      <link>https://weiting95.github.io/publication/conf46/</link>
+      <link>/publication/conf46/</link>
       <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf46/</guid>
+      <guid>/publication/conf46/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Training‐Based Synchronization and Channel Estimation in AF Two‐Way Relaying Networks</title>
-      <link>https://weiting95.github.io/publication/conf47/</link>
+      <link>/publication/conf47/</link>
       <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf47/</guid>
+      <guid>/publication/conf47/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynamic Fractional Frequency Reuse Method for Self‐Organizing Smallcell Network</title>
-      <link>https://weiting95.github.io/publication/conf45/</link>
+      <link>/publication/conf45/</link>
       <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf45/</guid>
+      <guid>/publication/conf45/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the Choice of Window for Spatial Smoothing of Spherical Data</title>
-      <link>https://weiting95.github.io/publication/conf44/</link>
+      <link>/publication/conf44/</link>
       <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf44/</guid>
+      <guid>/publication/conf44/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Outage Probability in Arbitrarily-Shaped Finite Wireless Networks</title>
-      <link>https://weiting95.github.io/publication/journal22/</link>
+      <link>/publication/journal22/</link>
       <pubDate>Tue, 14 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal22/</guid>
+      <guid>/publication/journal22/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Tractable Framework for Exact Probability of Node Isolation and Minimum Node Degree Distribution in Finite Multi-hop Networks</title>
-      <link>https://weiting95.github.io/publication/journal23/</link>
+      <link>/publication/journal23/</link>
       <pubDate>Tue, 03 Dec 2013 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal23/</guid>
+      <guid>/publication/journal23/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Error Performance Analysis of AF and DF Multi-way Relay Networks with BPSK Modulation</title>
-      <link>https://weiting95.github.io/publication/journal21/</link>
+      <link>/publication/journal21/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal21/</guid>
+      <guid>/publication/journal21/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spatio‐spectral Formulation and Design of Spatially‐Varying Filters for Signal Estimation on the 2‐Sphere</title>
-      <link>https://weiting95.github.io/publication/conf43/</link>
+      <link>/publication/conf43/</link>
       <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf43/</guid>
+      <guid>/publication/conf43/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Relaying Protocols for Wireless Energy Harvesting and Information Processing</title>
-      <link>https://weiting95.github.io/publication/journal19/</link>
+      <link>/publication/journal19/</link>
       <pubDate>Wed, 03 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal19/</guid>
+      <guid>/publication/journal19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimal Training Sequences for Joint Timing Synchronization and Channel Estimation in Distributed Communication Networks</title>
-      <link>https://weiting95.github.io/publication/journal20/</link>
+      <link>/publication/journal20/</link>
       <pubDate>Mon, 10 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal20/</guid>
+      <guid>/publication/journal20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DSTBC based DF Cooperative Networks in the Presence of Timing and Frequency Offsets</title>
-      <link>https://weiting95.github.io/publication/conf42/</link>
+      <link>/publication/conf42/</link>
       <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf42/</guid>
+      <guid>/publication/conf42/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Performance study of compressive sampling for ECG signal compression in noisy and varying sparsity acquisition</title>
-      <link>https://weiting95.github.io/publication/conf41/</link>
+      <link>/publication/conf41/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf41/</guid>
+      <guid>/publication/conf41/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transceiver Design for Distributed STBC Based AF Cooperative Networks in the Presence of Timing and Frequency Offsets</title>
-      <link>https://weiting95.github.io/publication/journal18/</link>
+      <link>/publication/journal18/</link>
       <pubDate>Fri, 12 Apr 2013 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal18/</guid>
+      <guid>/publication/journal18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fast Directional Spatially Localized Spherical Harmonic Transform</title>
-      <link>https://weiting95.github.io/publication/journal16/</link>
+      <link>/publication/journal16/</link>
       <pubDate>Fri, 15 Feb 2013 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal16/</guid>
+      <guid>/publication/journal16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distance Distributions in Regular Polygons</title>
-      <link>https://weiting95.github.io/publication/journal17/</link>
+      <link>/publication/journal17/</link>
       <pubDate>Fri, 18 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal17/</guid>
+      <guid>/publication/journal17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Connectivity of Three-Dimensional Wireless Sensor Networks Using Geometrical Probability</title>
-      <link>https://weiting95.github.io/publication/conf40/</link>
+      <link>/publication/conf40/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf40/</guid>
+      <guid>/publication/conf40/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Efficient Energy Curtailment Scheme For Outage Management in Smart Grid</title>
-      <link>https://weiting95.github.io/publication/conf39/</link>
+      <link>/publication/conf39/</link>
       <pubDate>Mon, 03 Dec 2012 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf39/</guid>
+      <guid>/publication/conf39/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spatially Varying Spectral Filtering of Signals on the Unit Sphere</title>
-      <link>https://weiting95.github.io/publication/journal15/</link>
+      <link>/publication/journal15/</link>
       <pubDate>Tue, 16 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal15/</guid>
+      <guid>/publication/journal15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Estimation of Synchronization Parameters in AF Cooperative Networks</title>
-      <link>https://weiting95.github.io/publication/conf38/</link>
+      <link>/publication/conf38/</link>
       <pubDate>Sun, 10 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf38/</guid>
+      <guid>/publication/conf38/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ambiguity function and Wigner distribution on the sphere</title>
-      <link>https://weiting95.github.io/publication/conf36/</link>
+      <link>/publication/conf36/</link>
       <pubDate>Sun, 25 Mar 2012 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf36/</guid>
+      <guid>/publication/conf36/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Concentration uncertainty principles for signals on the unit sphere</title>
-      <link>https://weiting95.github.io/publication/conf37/</link>
+      <link>/publication/conf37/</link>
       <pubDate>Sun, 25 Mar 2012 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf37/</guid>
+      <guid>/publication/conf37/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conjugate gradient algorithm for extrapolation of sampled bandlimited signals on the 2‐sphere</title>
-      <link>https://weiting95.github.io/publication/conf35/</link>
+      <link>/publication/conf35/</link>
       <pubDate>Sun, 25 Mar 2012 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf35/</guid>
+      <guid>/publication/conf35/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Particle Filters for Joint Timing and Carrier Estimation: Improved Resampling Guidelines and Weighted Bayesian Cramer-Rao Bounds</title>
-      <link>https://weiting95.github.io/publication/journal14/</link>
+      <link>/publication/journal14/</link>
       <pubDate>Mon, 05 Mar 2012 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal14/</guid>
+      <guid>/publication/journal14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Achieving Cooperative Diversity with Multiple Frequency Offset Estimation</title>
-      <link>https://weiting95.github.io/publication/conf33/</link>
+      <link>/publication/conf33/</link>
       <pubDate>Mon, 12 Dec 2011 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf33/</guid>
+      <guid>/publication/conf33/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Revisiting Slepian Concentration Problem on the Sphere for Azimuthally Non‐Symmetric Regions</title>
-      <link>https://weiting95.github.io/publication/conf34/</link>
+      <link>/publication/conf34/</link>
       <pubDate>Mon, 12 Dec 2011 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf34/</guid>
+      <guid>/publication/conf34/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spatio-spectral Analysis of Signals on the Sphere Using Spatially Localized Spherical Harmonics Transform</title>
-      <link>https://weiting95.github.io/publication/journal13/</link>
+      <link>/publication/journal13/</link>
       <pubDate>Wed, 23 Nov 2011 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal13/</guid>
+      <guid>/publication/journal13/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Timing and Carrier Synchronization with Channel Estimation in Multi-Relay Cooperative Networks</title>
-      <link>https://weiting95.github.io/publication/journal12/</link>
+      <link>/publication/journal12/</link>
       <pubDate>Fri, 04 Nov 2011 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal12/</guid>
+      <guid>/publication/journal12/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blind Timing and Carrier Synchronization in Decode and Forward Cooperative Systems</title>
-      <link>https://weiting95.github.io/publication/conf32/</link>
+      <link>/publication/conf32/</link>
       <pubDate>Sun, 05 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf32/</guid>
+      <guid>/publication/conf32/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mixture Kalman Filtering for joint carrier recovery and channel estimation in time‐selective Rayleigh fading channels</title>
-      <link>https://weiting95.github.io/publication/conf30/</link>
+      <link>/publication/conf30/</link>
       <pubDate>Sun, 22 May 2011 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf30/</guid>
+      <guid>/publication/conf30/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the construction of low‐pass filters on the unit sphere</title>
-      <link>https://weiting95.github.io/publication/conf31/</link>
+      <link>/publication/conf31/</link>
       <pubDate>Sun, 22 May 2011 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf31/</guid>
+      <guid>/publication/conf31/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blind Timing and Carrier Synchronization in Distributed MIMO Communication Systems</title>
-      <link>https://weiting95.github.io/publication/journal11/</link>
+      <link>/publication/journal11/</link>
       <pubDate>Wed, 04 May 2011 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal11/</guid>
+      <guid>/publication/journal11/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Particle Filter for Joint Blind Carrier Frequency Offset Estimation and Data Detection</title>
-      <link>https://weiting95.github.io/publication/conf29/</link>
+      <link>/publication/conf29/</link>
       <pubDate>Mon, 13 Dec 2010 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf29/</guid>
+      <guid>/publication/conf29/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Frequency Prioritised Queuing in Real‐Time Electrocardiograph Systems</title>
-      <link>https://weiting95.github.io/publication/conf28/</link>
+      <link>/publication/conf28/</link>
       <pubDate>Mon, 13 Dec 2010 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf28/</guid>
+      <guid>/publication/conf28/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effect of Mobility on Connectivity of Vehicular Ad Hoc Networks</title>
-      <link>https://weiting95.github.io/publication/conf27/</link>
+      <link>/publication/conf27/</link>
       <pubDate>Mon, 06 Sep 2010 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf27/</guid>
+      <guid>/publication/conf27/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blind Fractionally Spaced Equalization and Timing Synchronization in Wireless Fading Channels</title>
-      <link>https://weiting95.github.io/publication/conf26/</link>
+      <link>/publication/conf26/</link>
       <pubDate>Fri, 21 May 2010 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf26/</guid>
+      <guid>/publication/conf26/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Performance of Coarse and Fine Timing Synchronization in OFDM Receivers</title>
-      <link>https://weiting95.github.io/publication/conf25/</link>
+      <link>/publication/conf25/</link>
       <pubDate>Fri, 21 May 2010 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf25/</guid>
+      <guid>/publication/conf25/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Two-way Training: Optimal Power Allocation for Pilot and Data Transmission</title>
-      <link>https://weiting95.github.io/publication/journal10/</link>
+      <link>/publication/journal10/</link>
       <pubDate>Fri, 05 Feb 2010 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal10/</guid>
+      <guid>/publication/journal10/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modified Constant Modulus Algorithm for Joint Blind Equalization and Synchronization</title>
-      <link>https://weiting95.github.io/publication/conf24/</link>
+      <link>/publication/conf24/</link>
       <pubDate>Tue, 02 Feb 2010 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf24/</guid>
+      <guid>/publication/conf24/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimizing Training‐Based Transmission for Correlated MIMO Systems with Hybrid Feedback</title>
-      <link>https://weiting95.github.io/publication/conf23/</link>
+      <link>/publication/conf23/</link>
       <pubDate>Mon, 30 Nov 2009 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf23/</guid>
+      <guid>/publication/conf23/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Connectivity Analysis of Wireless Ad hoc Networks with Beamforming</title>
-      <link>https://weiting95.github.io/publication/journal09/</link>
+      <link>/publication/journal09/</link>
       <pubDate>Fri, 26 Jun 2009 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal09/</guid>
+      <guid>/publication/journal09/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimizing Antenna Configuration for MIMO Systems with Imperfect Channel Estimation</title>
-      <link>https://weiting95.github.io/publication/journal07/</link>
+      <link>/publication/journal07/</link>
       <pubDate>Mon, 16 Mar 2009 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal07/</guid>
+      <guid>/publication/journal07/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design Guidelines for Pilot Transmission in MIMO Systems with Feedback</title>
-      <link>https://weiting95.github.io/publication/journal08/</link>
+      <link>/publication/journal08/</link>
       <pubDate>Sun, 01 Mar 2009 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal08/</guid>
+      <guid>/publication/journal08/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Connectivity of Ad Hoc Networks: Is Fading Good or Bad?</title>
-      <link>https://weiting95.github.io/publication/conf22/</link>
+      <link>/publication/conf22/</link>
       <pubDate>Mon, 15 Dec 2008 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf22/</guid>
+      <guid>/publication/conf22/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Capacity of MIMO Systems: Impact of Spatial Correlation with Channel Estimation Errors</title>
-      <link>https://weiting95.github.io/publication/conf21/</link>
+      <link>/publication/conf21/</link>
       <pubDate>Wed, 19 Nov 2008 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf21/</guid>
+      <guid>/publication/conf21/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Connectivity of Wireless Ad Hoc Networks with Random Beamforming: An Analytical Approach</title>
-      <link>https://weiting95.github.io/publication/conf20/</link>
+      <link>/publication/conf20/</link>
       <pubDate>Mon, 15 Sep 2008 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf20/</guid>
+      <guid>/publication/conf20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Designing PSAM Schemes: How Optimal are SISO Pilot Parameters for Spatially Correlated SIMO?</title>
-      <link>https://weiting95.github.io/publication/conf19/</link>
+      <link>/publication/conf19/</link>
       <pubDate>Mon, 15 Sep 2008 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf19/</guid>
+      <guid>/publication/conf19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analytical Study of Connectivity in Wireless Ad hoc Networks with Random Beamforming</title>
-      <link>https://weiting95.github.io/publication/conf18/</link>
+      <link>/publication/conf18/</link>
       <pubDate>Mon, 17 Dec 2007 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf18/</guid>
+      <guid>/publication/conf18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statistical properties of a parametric channel model for multiple antenna systems</title>
-      <link>https://weiting95.github.io/publication/conf17/</link>
+      <link>/publication/conf17/</link>
       <pubDate>Mon, 03 Sep 2007 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf17/</guid>
+      <guid>/publication/conf17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effect Of Beamforming On The Connectivity Of Ad Hoc Networks</title>
-      <link>https://weiting95.github.io/publication/conf16/</link>
+      <link>/publication/conf16/</link>
       <pubDate>Mon, 05 Feb 2007 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf16/</guid>
+      <guid>/publication/conf16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MIMO Capacity for Spatial Channel Model Scenarios</title>
-      <link>https://weiting95.github.io/publication/conf15/</link>
+      <link>/publication/conf15/</link>
       <pubDate>Mon, 05 Feb 2007 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf15/</guid>
+      <guid>/publication/conf15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Parametric Channel Model for Smart Antennas Incorporating Mobile Station Mobility</title>
-      <link>https://weiting95.github.io/publication/conf14/</link>
+      <link>/publication/conf14/</link>
       <pubDate>Sun, 07 May 2006 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf14/</guid>
+      <guid>/publication/conf14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Investigating the Performance of MIMO Systems from an Electromagnetic Perspective</title>
-      <link>https://weiting95.github.io/publication/journal06/</link>
+      <link>/publication/journal06/</link>
       <pubDate>Thu, 27 Apr 2006 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal06/</guid>
+      <guid>/publication/journal06/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Simple Electromagnetic Model for Understanding the Operation of a MIMO System</title>
-      <link>https://weiting95.github.io/publication/conf13/</link>
+      <link>/publication/conf13/</link>
       <pubDate>Sun, 03 Jul 2005 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf13/</guid>
+      <guid>/publication/conf13/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effect of Line of Sight Propagation on Capacity of an Indoor MIMO System</title>
-      <link>https://weiting95.github.io/publication/conf12/</link>
+      <link>/publication/conf12/</link>
       <pubDate>Sun, 03 Jul 2005 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf12/</guid>
+      <guid>/publication/conf12/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Understanding and Analyzing the Performance of MIMO Systems from the Microwave Perspective</title>
-      <link>https://weiting95.github.io/publication/conf11/</link>
+      <link>/publication/conf11/</link>
       <pubDate>Sun, 12 Jun 2005 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf11/</guid>
+      <guid>/publication/conf11/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysis of the error performance of adaptive array antennas for CDMA with noncoherent M-ary orthogonal modulation in Nakagami fading</title>
-      <link>https://weiting95.github.io/publication/journal05/</link>
+      <link>/publication/journal05/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal05/</guid>
+      <guid>/publication/journal05/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Simple Model for Performance Evaluation of a Smart Antenna in a CDMA System</title>
-      <link>https://weiting95.github.io/publication/conf10/</link>
+      <link>/publication/conf10/</link>
       <pubDate>Mon, 30 Aug 2004 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf10/</guid>
+      <guid>/publication/conf10/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Performance of Hierarchical Beamforming in a Rayleigh Fading Environment with Angle Spread</title>
-      <link>https://weiting95.github.io/publication/conf09/</link>
+      <link>/publication/conf09/</link>
       <pubDate>Tue, 17 Aug 2004 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf09/</guid>
+      <guid>/publication/conf09/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effect of Angular Energy Distribution of an Incident Signal on the Spatial Fading Correlation of a Uniform Linear Array</title>
-      <link>https://weiting95.github.io/publication/conf08/</link>
+      <link>/publication/conf08/</link>
       <pubDate>Mon, 17 May 2004 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf08/</guid>
+      <guid>/publication/conf08/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effect of mutual coupling on the interference rejection capabilities of linear and circular arrays in CDMA systems</title>
-      <link>https://weiting95.github.io/publication/journal04/</link>
+      <link>/publication/journal04/</link>
       <pubDate>Thu, 01 Apr 2004 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal04/</guid>
+      <guid>/publication/journal04/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Performance Analysis of Beamforming in Ricean Fading Channels for CDMA Systems</title>
-      <link>https://weiting95.github.io/publication/conf07/</link>
+      <link>/publication/conf07/</link>
       <pubDate>Wed, 04 Feb 2004 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf07/</guid>
+      <guid>/publication/conf07/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Smart Antenna Model Incorporating an Azimuthal Dispersion of Received Signals at the Base Station of a CDMA System</title>
-      <link>https://weiting95.github.io/publication/conf06/</link>
+      <link>/publication/conf06/</link>
       <pubDate>Mon, 08 Dec 2003 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf06/</guid>
+      <guid>/publication/conf06/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BER Performance of a Smart Antenna System for IS‐95 CDMA</title>
-      <link>https://weiting95.github.io/publication/conf05/</link>
+      <link>/publication/conf05/</link>
       <pubDate>Sun, 22 Jun 2003 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf05/</guid>
+      <guid>/publication/conf05/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simulation of the Performance of Smart Antennas in the Reverse Link of CDMA System</title>
-      <link>https://weiting95.github.io/publication/conf04/</link>
+      <link>/publication/conf04/</link>
       <pubDate>Sun, 08 Jun 2003 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf04/</guid>
+      <guid>/publication/conf04/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Investigation into the interference rejection capability of a linear array in a wireless communications system</title>
-      <link>https://weiting95.github.io/publication/journal03/</link>
+      <link>/publication/journal03/</link>
       <pubDate>Sun, 01 Dec 2002 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal03/</guid>
+      <guid>/publication/journal03/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effect of Mutual Coupling on the Interference Rejection Capabilities of a Linear Array Antenna</title>
-      <link>https://weiting95.github.io/publication/conf03/</link>
+      <link>/publication/conf03/</link>
       <pubDate>Tue, 19 Nov 2002 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf03/</guid>
+      <guid>/publication/conf03/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Investigation into the Performance of an Adaptive Array in a Cellular Environment</title>
-      <link>https://weiting95.github.io/publication/conf02/</link>
+      <link>/publication/conf02/</link>
       <pubDate>Sun, 16 Jun 2002 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf02/</guid>
+      <guid>/publication/conf02/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interference rejection capabilities of different types of antenna arrays in cellular systems</title>
-      <link>https://weiting95.github.io/publication/journal02/</link>
+      <link>/publication/journal02/</link>
       <pubDate>Sat, 01 Jun 2002 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal02/</guid>
+      <guid>/publication/journal02/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development of CDMASIM: A Link Level Simulation Software for DS‐CDMA Systems</title>
-      <link>https://weiting95.github.io/publication/conf01/</link>
+      <link>/publication/conf01/</link>
       <pubDate>Mon, 20 May 2002 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf01/</guid>
+      <guid>/publication/conf01/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Implementation of Fractal Image Compression in Matlab Environment</title>
-      <link>https://weiting95.github.io/publication/journal01/</link>
+      <link>/publication/journal01/</link>
       <pubDate>Fri, 01 Dec 2000 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal01/</guid>
+      <guid>/publication/journal01/</guid>
       <description></description>
     </item>
     

@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>H. Jones | </title>
-    <link>https://weiting95.github.io/authors/h.-jones/</link>
-      <atom:link href="https://weiting95.github.io/authors/h.-jones/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/h.-jones/</link>
+      <atom:link href="/authors/h.-jones/index.xml" rel="self" type="application/rss+xml" />
     <description>H. Jones</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 26 Jun 2009 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://weiting95.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>H. Jones</title>
-      <link>https://weiting95.github.io/authors/h.-jones/</link>
+      <link>/authors/h.-jones/</link>
     </image>
     
     <item>
       <title>Connectivity Analysis of Wireless Ad hoc Networks with Beamforming</title>
-      <link>https://weiting95.github.io/publication/journal09/</link>
+      <link>/publication/journal09/</link>
       <pubDate>Fri, 26 Jun 2009 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/journal09/</guid>
+      <guid>/publication/journal09/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Connectivity of Ad Hoc Networks: Is Fading Good or Bad?</title>
-      <link>https://weiting95.github.io/publication/conf22/</link>
+      <link>/publication/conf22/</link>
       <pubDate>Mon, 15 Dec 2008 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf22/</guid>
+      <guid>/publication/conf22/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Connectivity of Wireless Ad Hoc Networks with Random Beamforming: An Analytical Approach</title>
-      <link>https://weiting95.github.io/publication/conf20/</link>
+      <link>/publication/conf20/</link>
       <pubDate>Mon, 15 Sep 2008 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf20/</guid>
+      <guid>/publication/conf20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analytical Study of Connectivity in Wireless Ad hoc Networks with Random Beamforming</title>
-      <link>https://weiting95.github.io/publication/conf18/</link>
+      <link>/publication/conf18/</link>
       <pubDate>Mon, 17 Dec 2007 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf18/</guid>
+      <guid>/publication/conf18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effect Of Beamforming On The Connectivity Of Ad Hoc Networks</title>
-      <link>https://weiting95.github.io/publication/conf16/</link>
+      <link>/publication/conf16/</link>
       <pubDate>Mon, 05 Feb 2007 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/publication/conf16/</guid>
+      <guid>/publication/conf16/</guid>
       <description></description>
     </item>
     

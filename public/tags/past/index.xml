@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>past | </title>
-    <link>https://weiting95.github.io/tags/past/</link>
-      <atom:link href="https://weiting95.github.io/tags/past/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/past/</link>
+      <atom:link href="/tags/past/index.xml" rel="self" type="application/rss+xml" />
     <description>past</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://weiting95.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>past</title>
-      <link>https://weiting95.github.io/tags/past/</link>
+      <link>/tags/past/</link>
     </image>
     
     <item>
       <title>Distance Distributions and Modelling of Finite Wireless Networks</title>
-      <link>https://weiting95.github.io/project/distance_distributions/</link>
+      <link>/project/distance_distributions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/project/distance_distributions/</guid>
+      <guid>/project/distance_distributions/</guid>
       <description>&lt;p&gt;Distance distributions can be applied to study important wireless network characteristics such as interference, outage probability, connectivity, routing, and energy consumption. They can also be applied in other branches of science, such as forestry, mathematics, operations research and material sciences. When a fixed and finite number of nodes are uniformly and independently distributed over a finite region such as a square or hexagon (polygon in general), the two important distance distributions are: 1) the pdf of the Euclidean distance between two nodes uniformly and independently distributed inside a polygon and 2) the pdf of the Euclidean distance between any arbitrary reference point and its nth neighbor node when N nodes are uniformly and independently distributed inside a polygon.&lt;/p&gt;
 &lt;p&gt;Specific contributions include modelling of the nth neighbour distance distributions in concave and convex polygons with arbitrary location of the reference point, modelling of connectivity in ad hoc networks and modelling of finite area wireless ad hoc, cognitive networks and D2D networks.&lt;/p&gt;
 &lt;ul&gt;
@@ -28,9 +28,9 @@
     
     <item>
       <title>Spherical Signal Processing</title>
-      <link>https://weiting95.github.io/project/spherical_signal_processing/</link>
+      <link>/project/spherical_signal_processing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/project/spherical_signal_processing/</guid>
+      <guid>/project/spherical_signal_processing/</guid>
       <description>&lt;p&gt;Signals that are inherently defined on the unit sphere appear in various fields of science and engineering such as medical image analysis, geodesy, computer graphics, planetary science, electromagnetic inverse problems, cosmology, 3D beamforming and wireless channel modeling.&lt;/p&gt;
 &lt;p&gt;Specific contributions include extension of Euclidean signal processing techniques to the sphere and development of new spatio-spectral signal transformation and filtering techniques.&lt;/p&gt;
 &lt;ul&gt;
@@ -42,9 +42,9 @@
     
     <item>
       <title>Synchronization</title>
-      <link>https://weiting95.github.io/project/synchronization/</link>
+      <link>/project/synchronization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://weiting95.github.io/project/synchronization/</guid>
+      <guid>/project/synchronization/</guid>
       <description>&lt;p&gt;Timing and carrier synchronization is a fundamental requirement for any wireless communications system to work properly. Timing synchronization is the process by which a receiver node determines the correct instants of time at which to sample the incoming signal. Carrier synchronization is the process by which a receiver adapts the frequency and phase of its local carrier oscillator with those of the received signal.&lt;/p&gt;
 &lt;p&gt;Specific contributions include both blind and pilot based algorithms for timing and carrier synchronization and channel estimation in OFDM, coperative, distributed, multi-way, mmwave and full duplex networks.&lt;/p&gt;
 &lt;ul&gt;
