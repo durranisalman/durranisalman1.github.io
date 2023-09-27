@@ -1,0 +1,37 @@
+{{ $item := . }}
+
+{{/* Dynamic view adjusts to content type. */}}
+{{ $icon_pack := "far" }}
+{{ $icon := "fa-file-alt" }}
+{{ $show_authors := false }}
+{{ $show_buttons := false }}
+{{ $link := $item.RelPermalink }}
+{{ $target := "" }}
+
+{{ $icon = "fa-newspaper" }}
+
+
+<div class="view-list-item" >
+  <i class="{{$icon_pack}} {{$icon}} pub-icon" aria-hidden="true"></i>
+  {{ ($item.Params.date).Format ("01/2006") }}
+  <br> <!-- Add a line break after the colon -->
+  {{$item.Title | markdownify | emojify}}
+
+
+
+  {{ if and $show_authors $item.Params.authors }}
+  <div class="article-metadata">
+    {{ partial "page_metadata_authors" $item }}
+  </div>
+  {{ end }}
+
+  {{ if $show_buttons }}
+  <div class="btn-links">
+    {{ partial "page_links" (dict "page" $item "is_list" 1) }}
+  </div>
+  {{ end }}
+
+</div>
+
+
+
