@@ -43,16 +43,6 @@
   </url>
   
   <url>
-    <loc>/post/news15/</loc>
-    <lastmod>2023-11-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2023-11-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/</loc>
     <lastmod>2023-10-01T18:35:04+11:00</lastmod>
   </url>
@@ -219,6 +209,11 @@
   
   <url>
     <loc>/post/news14/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url>
   
