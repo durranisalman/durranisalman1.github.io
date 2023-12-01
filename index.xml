@@ -130,8 +130,8 @@
 &lt;ul&gt;
 &lt;li&gt;Mathematica Notebooks:
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://users.cecs.anu.edu.au/~Salman.Durrani/_software/Example1.nb&#34;&gt;Example 1&lt;/a&gt;: Abritrary polygons without holes. Requires Mathematica 11 or higher version.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://users.cecs.anu.edu.au/~Salman.Durrani/_software/Example2.nb&#34;&gt;Example 2&lt;/a&gt;: Abritrary polygons with holes. Requires Mathematica 12.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../files/_software/Example1.nb&#34;&gt;Example 1&lt;/a&gt;: Abritrary polygons without holes. Requires Mathematica 11 or higher version.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../files/_software/Example2.nb&#34;&gt;Example 2&lt;/a&gt;: Abritrary polygons with holes. Requires Mathematica 12.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Our &lt;a href=&#34;https://arxiv.org/abs/1903.07757&#34;&gt;paper&lt;/a&gt; is currently under review in Mathematical Methods in Applied Sciences journal (revised: 24 Jan. 2021)&lt;/li&gt;
@@ -160,7 +160,7 @@
 &lt;h4 id=&#34;computing-exact-closed-form-distance-distributions-in-arbitrary-convex-polygon-regions-with-interior-reference-point&#34;&gt;&lt;strong&gt;Computing exact closed-form distance distributions in arbitrary convex polygon regions with interior reference point&lt;/strong&gt;&lt;/h4&gt;
 &lt;p&gt;This software computes: (i) the exact closed-form probability density function and (ii) the exact closed-form cumulative density function of the distance between a randomly located node and any arbitrary reference point inside an arbitrary L-sided convex polygon.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2014_ieeetcom.pdf&#34;&gt;Our relevant IEEE TCOM paper (see Appendix A)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../files/_software/2014_ieeetcom.pdf&#34;&gt;Our relevant IEEE TCOM paper (see Appendix A)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Mathematica Notebook: This will no longer be posted. See our &lt;a href=&#34;http://www.mathematica-journal.com/2015/06/computing-exact-closed-form-distance-distributions-in-arbitrarily-shaped-polygons-with-arbitrary-reference-point/&#34;&gt;Mathematica Notebook&lt;/a&gt;, which can handle both concave and convex polygons.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -168,12 +168,12 @@
 &lt;h4 id=&#34;computing-exact-closed-form-distance-distributions-in-regular-polygon-regions-with-interior-reference-point-released-may-2013&#34;&gt;&lt;strong&gt;Computing exact closed-form distance distributions in regular polygon regions with interior reference point [Released: May 2013]&lt;/strong&gt;&lt;/h4&gt;
 &lt;p&gt;This software computes: (i) the exact closed-form probability density function and (ii) the exact closed-form cumulative density function of the distance between a randomly located node and any arbitrary reference point inside a regular L-sided polygon. These results can be used to obtain the closed-form probability density function of the Euclidean distance between any arbitrary reference point and its nth neighbor node when N nodes are uniformly and independently distributed (i.e. according to a uniform Binomial Point Process) inside a regular L-sided polygon. These distance distributions have many applications in wireless networks. This code is available in both Mathematica and Matlab.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://users.cecs.anu.edu.au/~Salman.Durrani/_software/Compute_DistanceDistributions_Polygon_v1_Mathematica.pdf&#34;&gt;PDF of Mathematica Notebook&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://users.cecs.anu.edu.au/~Salman.Durrani/_software/Compute_DistanceDistributions_Polygon_v1_Mathematica.zip&#34;&gt;Mathematica Notebook (zipped)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://users.cecs.anu.edu.au/~Salman.Durrani/_software/Compute_DistanceDistributions_Polygon_v1_Matlab.zip&#34;&gt;Matlab Code (zipped)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2013_ieeetvt.pdf&#34;&gt;Our relevant IEEE TVT paper&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Applications: &lt;a href=&#34;https://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2014_ieeetcom.pdf&#34;&gt;IEEE TCOM paper&lt;/a&gt; and &lt;a href=&#34;https://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2014_ieeetvt.pdf&#34;&gt;IEEE TVT paper&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://users.cecs.anu.edu.au/~Salman.Durrani/_papers/Slides/Durrani_ausCTW2013.pdf&#34;&gt;Slides for AusCTW 2013 (invited talk)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../files/_software/Compute_DistanceDistributions_Polygon_v1_Mathematica.pdf&#34;&gt;PDF of Mathematica Notebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../files/_software/Compute_DistanceDistributions_Polygon_v1_Mathematica.zip&#34;&gt;Mathematica Notebook (zipped)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;files/_software/Compute_DistanceDistributions_Polygon_v1_Matlab.zip&#34;&gt;Matlab Code (zipped)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../files/_software/journals/2013_ieeetvt.pdf&#34;&gt;Our relevant IEEE TVT paper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Applications: &lt;a href=&#34;../files/_software/2014_ieeetcom.pdf&#34;&gt;IEEE TCOM paper&lt;/a&gt; and &lt;a href=&#34;../files/_software/journals/2014_ieeetvt.pdf&#34;&gt;IEEE TVT paper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../files/_software/Durrani_ausCTW2013.pdf&#34;&gt;Slides for AusCTW 2013 (invited talk)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Screenshot: &lt;img src=&#34;/fig4.jpg&#34; alt=&#34;fig4&#34;&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
