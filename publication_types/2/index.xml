@@ -47,7 +47,7 @@
     <item>
       <title>Access-Based Lightweight Physical Layer Authentication for the Internet of Things Devices</title>
       <link>/publication/journal70/</link>
-      <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
       <guid>/publication/journal70/</guid>
       <description></description>
     </item>
@@ -55,7 +55,7 @@
     <item>
       <title>Outage Performance of Multi‐Tier UAV Communication With Random Beam Misalignment</title>
       <link>/publication/journal69/</link>
-      <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
       <guid>/publication/journal69/</guid>
       <description></description>
     </item>
@@ -63,8 +63,16 @@
     <item>
       <title>Joint User and Data Detection in Grant-Free NOMA with Attention-based BiLSTM Network</title>
       <link>/publication/journal67/</link>
-      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
       <guid>/publication/journal67/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utility Fairness for the Differentially Private Federated-Learning-Based Wireless IoT Networks</title>
+      <link>/publication/journal66/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/journal66/</guid>
       <description></description>
     </item>
     
@@ -85,18 +93,18 @@
     </item>
     
     <item>
-      <title>Federated Learning Cost Disparity for IoT Devices</title>
-      <link>/publication/journal66/</link>
-      <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/journal66/</guid>
+      <title>Distance Distribution Between Two Random Nodes in Arbitrary Polygons</title>
+      <link>/publication/journal64/</link>
+      <pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/journal64/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Spectrum Allocation with Adaptive Sub‐band Bandwidth for Terahertz Communication Systems</title>
-      <link>/publication/journal63/</link>
-      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/journal63/</guid>
+      <title>Coverage Analysis for 3D Terahertz Communication Systems</title>
+      <link>/publication/journal62/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/journal62/</guid>
       <description></description>
     </item>
     
@@ -105,22 +113,6 @@
       <link>/publication/journal61/</link>
       <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
       <guid>/publication/journal61/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Coverage Analysis for 3D Terahertz Communication Systems</title>
-      <link>/publication/journal62/</link>
-      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/journal62/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Design of Ambient Backscatter Training for Retrodirective Wireless Power Transfer</title>
-      <link>/publication/journal60/</link>
-      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/journal60/</guid>
       <description></description>
     </item>
     
@@ -153,14 +145,6 @@
       <link>/publication/journal56/</link>
       <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
       <guid>/publication/journal56/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Distance Distribution Between Two Random Nodes in Arbitrary Polygons</title>
-      <link>/publication/journal64/</link>
-      <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/journal64/</guid>
       <description></description>
     </item>
     
@@ -602,6 +586,23 @@
       <pubDate>Fri, 01 Dec 2000 00:00:00 +0000</pubDate>
       <guid>/publication/journal01/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Design of Ambient Backscatter Training for Retrodirective Wireless Power Transfer</title>
+      <link>/publication/journal60/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/journal60/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spectrum Allocation with Adaptive Sub‐band Bandwidth for Terahertz Communication Systems</title>
+      <link>/publication/journal63/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/journal63/</guid>
+      <description>&lt;p&gt;9667397&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -157,6 +157,14 @@
     </item>
     
     <item>
+      <title>Access-Based Lightweight Physical Layer Authentication for the Internet of Things Devices</title>
+      <link>/publication/journal70/</link>
+      <pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/journal70/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mathematica and Matlab Software for Computing Distance Distributions</title>
       <link>/software/</link>
       <pubDate>Sun, 01 Oct 2023 18:35:04 +1100</pubDate>
@@ -435,14 +443,6 @@
     </item>
     
     <item>
-      <title>Access-Based Lightweight Physical Layer Authentication for the Internet of Things Devices</title>
-      <link>/publication/journal70/</link>
-      <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/journal70/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Beyond Key-Based Authentication: A Novel Continuous Authentication Paradigm for IoTs</title>
       <link>/publication/conf93/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
@@ -453,8 +453,16 @@
     <item>
       <title>Outage Performance of Multi‐Tier UAV Communication With Random Beam Misalignment</title>
       <link>/publication/journal69/</link>
-      <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
       <guid>/publication/journal69/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint User and Data Detection in Grant-Free NOMA with Attention-based BiLSTM Network</title>
+      <link>/publication/journal67/</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/journal67/</guid>
       <description></description>
     </item>
     
@@ -499,10 +507,10 @@
     </item>
     
     <item>
-      <title>Joint User and Data Detection in Grant-Free NOMA with Attention-based BiLSTM Network</title>
-      <link>/publication/journal67/</link>
-      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/journal67/</guid>
+      <title>Utility Fairness for the Differentially Private Federated-Learning-Based Wireless IoT Networks</title>
+      <link>/publication/journal66/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/journal66/</guid>
       <description></description>
     </item>
     
@@ -555,10 +563,10 @@
     </item>
     
     <item>
-      <title>Federated Learning Cost Disparity for IoT Devices</title>
-      <link>/publication/journal66/</link>
-      <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/journal66/</guid>
+      <title>Distance Distribution Between Two Random Nodes in Arbitrary Polygons</title>
+      <link>/publication/journal64/</link>
+      <pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/journal64/</guid>
       <description></description>
     </item>
     
@@ -579,14 +587,6 @@
     </item>
     
     <item>
-      <title>Spectrum Allocation with Adaptive Sub‐band Bandwidth for Terahertz Communication Systems</title>
-      <link>/publication/journal63/</link>
-      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/journal63/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Transfer Learning Based Detection for Intelligent Reflecting Surface Aided Communications</title>
       <link>/publication/conf87/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
@@ -603,18 +603,18 @@
     </item>
     
     <item>
-      <title>Performance-Fairness Trade-off for Wi-Fi and LTE-LAA Coexistence</title>
-      <link>/publication/journal61/</link>
-      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/journal61/</guid>
+      <title>Coverage Analysis for 3D Terahertz Communication Systems</title>
+      <link>/publication/journal62/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/journal62/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Coverage Analysis for 3D Terahertz Communication Systems</title>
-      <link>/publication/journal62/</link>
-      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/journal62/</guid>
+      <title>Performance-Fairness Trade-off for Wi-Fi and LTE-LAA Coexistence</title>
+      <link>/publication/journal61/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/journal61/</guid>
       <description></description>
     </item>
     
@@ -647,14 +647,6 @@
       <link>/post/news7/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       <guid>/post/news7/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Design of Ambient Backscatter Training for Retrodirective Wireless Power Transfer</title>
-      <link>/publication/journal60/</link>
-      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/journal60/</guid>
       <description></description>
     </item>
     
@@ -743,14 +735,6 @@
       <link>/post/news5/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       <guid>/post/news5/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Distance Distribution Between Two Random Nodes in Arbitrary Polygons</title>
-      <link>/publication/journal64/</link>
-      <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/journal64/</guid>
       <description></description>
     </item>
     
@@ -2036,6 +2020,14 @@ Three
     </item>
     
     <item>
+      <title>Design of Ambient Backscatter Training for Retrodirective Wireless Power Transfer</title>
+      <link>/publication/journal60/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/journal60/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Device to Device (D2D) and Machine to Machine (M2M) Communication</title>
       <link>/project/d2d_m2m/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2074,6 +2066,15 @@ Three
 &lt;li&gt;Journals: [1] (draft)&lt;/li&gt;
 &lt;li&gt;Conference: To do&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spectrum Allocation with Adaptive Sub‐band Bandwidth for Terahertz Communication Systems</title>
+      <link>/publication/journal63/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/journal63/</guid>
+      <description>&lt;p&gt;9667397&lt;/p&gt;
 </description>
     </item>
     
