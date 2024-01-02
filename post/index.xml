@@ -5,7 +5,7 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent News</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 16 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 02 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Recent News</title>
@@ -15,8 +15,16 @@
     <item>
       <title>New website is under construction!</title>
       <link>/post/news15/</link>
-      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
       <guid>/post/news15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I have been invited to join the IEEE Transactions on Wireless Communications as an Editor in the area Wireless Communication Theory and Systems II.</title>
+      <link>/post/news18/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/post/news18/</guid>
       <description></description>
     </item>
     
