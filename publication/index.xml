@@ -5,12 +5,20 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 02 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 02 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Joint Active and Passive Beamforming for IRS‐assisted Monostatic Backscatter Systems: An Unsupervised Learning Approach</title>
+      <link>/publication/journal71/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/journal71/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>IoT Ground Sensing Systems for Early Wildfire Detection: Technologies, Challenges and Opportunities</title>
@@ -25,14 +33,6 @@
       <link>/publication/journal73/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
       <guid>/publication/journal73/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Joint Active and Passive Beamforming for IRS‐assisted Monostatic Backscatter Systems: An Unsupervised Learning Approach</title>
-      <link>/publication/journal71/</link>
-      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/journal71/</guid>
       <description></description>
     </item>
     
