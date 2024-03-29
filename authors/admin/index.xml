@@ -5,12 +5,28 @@
     <link>/authors/admin/</link>
       <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description></description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 02 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title></title>
       <link>/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>UAV-assisted IoT Monitoring Network: Adaptive Multiuser Access for Low-Latency and High-Reliability Under Bursty Traffic</title>
+      <link>/publication/journal72/</link>
+      <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/journal72/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and Performance Analysis of Cache‐Enabled Multicast in UAV‐Enhanced Cellular Networks</title>
+      <link>/publication/journal73/</link>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/journal73/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Joint Active and Passive Beamforming for IRS‐assisted Monostatic Backscatter Systems: An Unsupervised Learning Approach</title>
@@ -21,50 +37,10 @@
     </item>
     
     <item>
-      <title>IoT Ground Sensing Systems for Early Wildfire Detection: Technologies, Challenges and Opportunities</title>
-      <link>/publication/journal74/</link>
-      <pubDate>Sat, 02 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/journal74/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Design and Performance Analysis of Cache‐Enabled Multicast in UAV‐Enhanced Cellular Networks</title>
-      <link>/publication/journal73/</link>
-      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/journal73/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>UAV-assisted IoT Monitoring Network: Adaptive Multiuser Access for Low-Latency and High-Reliability Under Bursty Traffic</title>
-      <link>/publication/journal72/</link>
-      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/journal72/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Access-Based Lightweight Physical Layer Authentication for the Internet of Things Devices</title>
-      <link>/publication/journal70/</link>
-      <pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/journal70/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Beyond Key-Based Authentication: A Novel Continuous Authentication Paradigm for IoTs</title>
       <link>/publication/conf93/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
       <guid>/publication/conf93/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Outage Performance of Multi‐Tier UAV Communication With Random Beam Misalignment</title>
-      <link>/publication/journal69/</link>
-      <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/journal69/</guid>
       <description></description>
     </item>
     
@@ -1321,6 +1297,22 @@
       <link>/publication/journal60/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/publication/journal60/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IoT Ground Sensing Systems for Early Wildfire Detection: Technologies, Challenges and Opportunities</title>
+      <link>/publication/journal74/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/journal74/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outage Performance of Multi‐Tier UAV Communication With Random Beam Misalignment</title>
+      <link>/publication/journal69/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/journal69/</guid>
       <description></description>
     </item>
     
