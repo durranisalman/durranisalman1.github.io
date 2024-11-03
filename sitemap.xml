@@ -43,18 +43,58 @@
   </url>
   
   <url>
+    <loc>/post/</loc>
+    <lastmod>2024-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/news19/</loc>
+    <lastmod>2024-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/admin/</loc>
-    <lastmod>2024-03-29T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/2/</loc>
-    <lastmod>2024-03-29T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal70/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2024-03-29T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/c.-thapa/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/s.-camtepe/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/s.-khan/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -68,27 +108,7 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2024-03-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2024-03-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2024-03-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/s.-alvi/</loc>
-    <lastmod>2024-03-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/news19/</loc>
     <lastmod>2024-03-29T00:00:00+00:00</lastmod>
   </url>
   
@@ -179,21 +199,6 @@
   
   <url>
     <loc>/publication/conf93/</loc>
-    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/c.-thapa/</loc>
-    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/s.-camtepe/</loc>
-    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/s.-khan/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url>
   

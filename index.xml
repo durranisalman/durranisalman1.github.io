@@ -117,10 +117,18 @@
     </item>
     
     <item>
-      <title>The website is under construction. The publications page is up to date. The projects will be updated soon.</title>
+      <title>The website is (still!) under construction. The publications page is up to date. The projects will be updated soon.</title>
       <link>/post/news19/</link>
-      <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
       <guid>/post/news19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Access-Based Lightweight Physical Layer Authentication for the Internet of Things Devices</title>
+      <link>/publication/journal70/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/journal70/</guid>
       <description></description>
     </item>
     
@@ -238,7 +246,8 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Journal Editorial Board&lt;/strong&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://host.comsoc.org/transcom/board.html&#34;&gt;IEEE Transactions on Communications&lt;/a&gt;: Feb. 2015 - Dec. 2020.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.comsoc.org/publications/journals/ieee-twc&#34;&gt;IEEE Transactions on Wireless Communications&lt;/a&gt;: Jan. 2024 - present.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.comsoc.org/publications/journals/ieee-tcom/ieee-transactions-communications-editorial-board&#34;&gt;IEEE Transactions on Communications&lt;/a&gt;: Feb. 2015 - Dec. 2020.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.oldcitypublishing.com/AHSWN/AHSWN.html&#34;&gt;Ad Hoc &amp;amp; Sensor Wireless Networks Journal&lt;/a&gt;: June 2014 - June 2015.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -250,16 +259,16 @@
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Conference Technical Program Committee Member:&lt;/strong&gt;
 &lt;ul&gt;
-&lt;li&gt;IEEE International Conference on Communications (&lt;strong&gt;ICC&lt;/strong&gt;): 2024, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012.&lt;/li&gt;
-&lt;li&gt;IEEE Vehicular Technology Conference (&lt;strong&gt;VTC&lt;/strong&gt;): 2018, 2017 (spring).&lt;/li&gt;
-&lt;li&gt;IEEE Global Telecommunications Conference (&lt;strong&gt;Globecom&lt;/strong&gt;): 2018, 2017, 2016.&lt;/li&gt;
-&lt;li&gt;IEEE International Conference on Signal Processing and Communication Systems (&lt;strong&gt;ICSPCS&lt;/strong&gt;): 2016, 2015, 2014, 2013.&lt;/li&gt;
-&lt;li&gt;IEEE &lt;strong&gt;Globecom Workshop&lt;/strong&gt; - Emerging Technologies for 5G Wireless Cellular Networks: 2016, 2015, 2014.&lt;/li&gt;
+&lt;li&gt;IEEE International Conference on Communications (&lt;strong&gt;ICC&lt;/strong&gt;): 2024-2012.&lt;/li&gt;
+&lt;li&gt;IEEE Global Telecommunications Conference (&lt;strong&gt;Globecom&lt;/strong&gt;): 2024-2016.&lt;/li&gt;
+&lt;li&gt;IEEE Vehicular Technology Conference (&lt;strong&gt;VTC&lt;/strong&gt;): 2018-2017.&lt;/li&gt;
+&lt;li&gt;IEEE International Conference on Signal Processing and Communication Systems (&lt;strong&gt;ICSPCS&lt;/strong&gt;): 2016-2013.&lt;/li&gt;
+&lt;li&gt;IEEE &lt;strong&gt;Globecom Workshop&lt;/strong&gt; - Emerging Technologies for 5G Wireless Cellular Networks: 2016-2014.&lt;/li&gt;
 &lt;li&gt;IEEE &lt;strong&gt;WCNC Workshop&lt;/strong&gt; - Green and Sustainable 5G Wireless  Networks (GRASNET) : 2017.&lt;/li&gt;
-&lt;li&gt;International Conference on Telecommunications (&lt;strong&gt;ICT&lt;/strong&gt;, 23rd &amp;amp; 22nd): 2016, 2015.&lt;/li&gt;
+&lt;li&gt;International Conference on Telecommunications (&lt;strong&gt;ICT&lt;/strong&gt;, 23rd &amp;amp; 22nd): 2016-2015.&lt;/li&gt;
 &lt;li&gt;International Conference on Cognitive Radio Oriented Wireless Networks (&lt;strong&gt;CROWNCOM&lt;/strong&gt;, 10th): 2015.&lt;/li&gt;
-&lt;li&gt;IEEE Personal, Indoor, and Mobile Radio Communication Conference (&lt;strong&gt;PIMRC&lt;/strong&gt;): 2012, 2011.&lt;/li&gt;
-&lt;li&gt;Australian Communications Theory Workshop (&lt;strong&gt;AusCTW&lt;/strong&gt;): 2012, 2011.&lt;/li&gt;
+&lt;li&gt;IEEE Personal, Indoor, and Mobile Radio Communication Conference (&lt;strong&gt;PIMRC&lt;/strong&gt;): 2012-2011.&lt;/li&gt;
+&lt;li&gt;Australian Communications Theory Workshop (&lt;strong&gt;AusCTW&lt;/strong&gt;): 2012-2011.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Conference Organising Committee Member&lt;/strong&gt;
@@ -361,34 +370,11 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id=&#34;selected-presentationsr&#34;&gt;&lt;strong&gt;Selected Presentationsr&lt;/strong&gt;&lt;/h4&gt;
+&lt;h4 id=&#34;selected-presentations&#34;&gt;&lt;strong&gt;Selected Presentations&lt;/strong&gt;&lt;/h4&gt;
 &lt;ol&gt;
 &lt;li&gt;&amp;ldquo;Design of NOMA Enhanced Backscatter Communications&amp;rdquo;, &lt;strong&gt;AusCTW&lt;/strong&gt;, Newcastle, Feb. 2018. [Slides]&lt;/li&gt;
 &lt;li&gt;&amp;ldquo;Energy Harvesting for Wireless Sensor Networks: Myth or Reality?&amp;quot;, &lt;strong&gt;EECS Seminar, University of Newcastle&lt;/strong&gt;, April 2016.&lt;/li&gt;
-&lt;li&gt;&amp;ldquo;Call Completion Probability in Heterogeneous Networks with Energy Harvesting Base Stations&amp;rdquo;, &lt;strong&gt;22nd IEEE ICT&lt;/strong&gt;, April 2015. [&lt;a href=&#34;https://users.cecs.anu.edu.au/~Salman.Durrani/_papers/Slides/Durrani_ICT2015.pdf&#34;&gt;Slides&lt;/a&gt;].&lt;/li&gt;
-&lt;li&gt;&amp;ldquo;Distance Distributions and Boundary Effects in Finite Uniformly Random Networks&amp;rdquo;, &lt;strong&gt;AusCTW&lt;/strong&gt;, Adelaide, Feb. 2013. [&lt;a href=&#34;https://users.cecs.anu.edu.au/~Salman.Durrani/_papers/Slides/Durrani_ausCTW2013.pdf&#34;&gt;Slides&lt;/a&gt;]&lt;/li&gt;
-&lt;li&gt;&amp;ldquo;Distance Distributions in a Square Region&amp;rdquo;, Department of Electrical &amp;amp; Computer Engineering Seminar, &lt;strong&gt;Queen&amp;rsquo;s University&lt;/strong&gt;, Canada, Sep. 2012.&lt;/li&gt;
-&lt;li&gt;&amp;ldquo;Distance Distributions and Border Effects in a Unit Square&amp;rdquo;, &lt;a href=&#34;https://eng.anu.edu.au/seminars/more/SID/3079&#34;&gt;ASP Seminar Series&lt;/a&gt;, ANU, May 2012.&lt;/li&gt;
-&lt;li&gt;&amp;ldquo;Blind Timing and Carrier Synchronization in Decode and Forward Cooperative Systems&amp;rdquo;, Statistical Signal Processing Laboratory Seminar, &lt;strong&gt;The University of British Columbia&lt;/strong&gt;, Canada, Sep. 2010.&lt;/li&gt;
-&lt;li&gt;&amp;ldquo;Blind Timing and Carrier Synchronization in Decode and Forward Cooperative Systems&amp;rdquo;, &lt;a href=&#34;http://www.sce.carleton.ca/dept/departmentNews/BCWS17.pdf&#34;&gt;BCWS Seminar Series&lt;/a&gt;, Carleton University, Ottawa, Canada, Sep. 2010.&lt;/li&gt;
-&lt;li&gt;&amp;ldquo;Blind Timing and Carrier Synchronization in Distributed MIMO Communication Systems&amp;rdquo;, &lt;a href=&#34;http://cecs.anu.edu.au/seminars/more/SID/2635&#34;&gt;ASP Seminar Series&lt;/a&gt;, The Australian National University, August 2010.&lt;/li&gt;
-&lt;li&gt;&amp;ldquo;Connectivity of Wireless Ad hoc Networks&amp;rdquo;, Workshop on Wireless Communications (invited talk), The University of Engineering &amp;amp; Technology, Lahore, Pakistan, Dec. 2009. [&lt;a href=&#34;http://www.uet.edu.pk/newsannouncement/newssection/window.html?RID=wworkshop_ad_7_DEC_09&#34;&gt;Slides&lt;/a&gt;]&lt;/li&gt;
-&lt;li&gt;&amp;ldquo;Analysing Connectivity of Wireless Ad hoc Networks with Beamforming&amp;rdquo;, &lt;a href=&#34;http://cecs.anu.edu.au/seminars/showone.pl?SID=572&#34;&gt;InfoEng Seminar Series&lt;/a&gt;, The Australian National University, June 2009. [&lt;a href=&#34;http://users.rsise.anu.edu.au/~seminars/2009_06_04_durrani.mov&#34;&gt;Video&lt;/a&gt;]&lt;/li&gt;
-&lt;li&gt;&amp;ldquo;Parametric Channel Modelling for Wireless Systems&amp;rdquo;, InfoEng Seminar Series, The Australian National University, May 2008. [&lt;a href=&#34;http://users.rsise.anu.edu.au/~seminars/2008_05_02_durrani.mov&#34;&gt;Video&lt;/a&gt;]&lt;/li&gt;
-&lt;li&gt;&amp;ldquo;Statistical Properties of a Parametric Channel Model for Multiple Antenna Systems&amp;rdquo;, &lt;strong&gt;IEEE PIMRC&lt;/strong&gt;, Sep. 2007. [&lt;a href=&#34;https://users.cecs.anu.edu.au/~Salman.Durrani/_papers/Slides/Durrani_PIMRC2007.pdf&#34;&gt;Slides&lt;/a&gt; (382K)]&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h4 id=&#34;student-mentoring&#34;&gt;&lt;strong&gt;Student Mentoring&lt;/strong&gt;&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://studentdb.rsise.anu.edu.au/student_advisors.cgi&#34;&gt;PhD Student Advisor&lt;/a&gt;, College of Engineering and Computer Science, ANU, 2006-present.&lt;/li&gt;
-&lt;li&gt;Program Advisor (supporting to Associate Dean Undergraduate), Department of Engineering, ANU, 2005-2008.&lt;/li&gt;
-&lt;li&gt;Student Mentor, Bachelor of Engineering (Research and Development) degree program, Department of Engineering, ANU, 2007-present.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;professional-memberships&#34;&gt;&lt;strong&gt;Professional Memberships&lt;/strong&gt;&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Senior Member Institute of Electrical &amp;amp; Electronics Engineers, USA (S’01-M’05-SM&amp;rsquo;10).&lt;/li&gt;
-&lt;li&gt;Member of IEEE Communications Society, IEEE Signal Processing Society and IEEE Vehicular Technology Society.&lt;/li&gt;
-&lt;li&gt;Member Institution of Engineers, Australia (MIEAust, Professional Engineer).&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
@@ -398,7 +384,7 @@
       <pubDate>Sun, 01 Oct 2023 18:35:04 +1100</pubDate>
       <guid>/people/</guid>
       <description>&lt;p&gt;I am passionately committed to the supervision of research students.&lt;/p&gt;
-&lt;p&gt;To date, I have supervised 100 students including 4 Postdoctoral Research Fellows, 15 PhD students (11 graduated), 6 Master of Engineering Hons students, 31 Bachelor of Engineering Research &amp;amp; Development students and 44 Bachelor of Engineering Research Hons students.&lt;/p&gt;
+&lt;p&gt;To date, I have supervised 100 students including 4 Postdoctoral Research Fellows, 15 PhD students (12 graduated), 6 Master of Engineering Hons students, 31 Bachelor of Engineering Research &amp;amp; Development students and 44 Bachelor of Engineering Research Hons students.&lt;/p&gt;
 &lt;p&gt;Please see my CV for full details, including student awards and honours and career outcomes. The details about my current and past PhD students are below.&lt;/p&gt;
 &lt;h3 id=&#34;current-phd-students&#34;&gt;&lt;strong&gt;Current PhD Students&lt;/strong&gt;&lt;/h3&gt;
 &lt;ul&gt;
@@ -413,20 +399,20 @@
 &lt;ul&gt;
 &lt;li&gt;Scholarship(s): &lt;a href=&#34;http://www.anu.edu.au/students/scholarships-fees/scholarships/australian-government-research-training-program-agrtp&#34;&gt;Australian Government Research Training Program (AGRTP) Stipend Scholarship&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Co-supervisor: Dr. Chandra Thapa and Prof. Seyit Camtepe.&lt;/li&gt;
-&lt;li&gt;Joint PhD publication outcomes: 3 journal papers (1 draft) + 3 conference papers (1 under review).&lt;/li&gt;
+&lt;li&gt;Joint PhD publication outcomes: 3 journal papers (1 draft) + 2 conference papers.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Nilupuli Senadhira&lt;/strong&gt;, UAV Networks, Jun. 2018 - present
 &lt;ul&gt;
 &lt;li&gt;Scholarship(s): &lt;a href=&#34;http://www.anu.edu.au/students/scholarships-fees/scholarships/australian-government-research-training-program-agrtp&#34;&gt;Australian Government Research Training Program (AGRTP) Stipend Scholarship&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Co-supervisor: Dr. Nan Yang and Dr. Xiangyun Zhou.&lt;/li&gt;
-&lt;li&gt;Joint PhD publication outcomes: 3 Journal papers (1 draft) + 2 conference papers.&lt;/li&gt;
+&lt;li&gt;Joint PhD publication outcomes: 3 Journal papers (2 draft) + 2 conference papers.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;graduated-phd-students&#34;&gt;&lt;strong&gt;Graduated PhD Students&lt;/strong&gt;&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://www.linkedin.com/in/sahar-idrees-20134871/&#34;&gt;Sahar Idrees&lt;/a&gt;&lt;/strong&gt;, Smart Reflection and Passive Communication: Synergizing Backscatter Communication and 6G Technologies for Future Wireless Networks, March 2018 - Aug. 2023. [[Thesis]]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://www.linkedin.com/in/sahar-idrees-20134871/&#34;&gt;Sahar Idrees&lt;/a&gt;&lt;/strong&gt;, Smart Reflection and Passive Communication: Synergizing Backscatter Communication and 6G Technologies for Future Wireless Networks, March 2018 - Aug. 2023. [&lt;a href=&#34;../files/theses/Sahar_thesis.pdf&#34;&gt;Thesis&lt;/a&gt;]&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://scholar.google.com.au/citations?user=gFR-WZMAAAAJ&amp;amp;hl=en&amp;amp;oi=ao&#34;&gt;Akram Shafie&lt;/a&gt;&lt;/strong&gt;, Spectrum Allocation for Terahertz Band Communication Systems, Jan. 2020 - Jan. 2023. [&lt;a href=&#34;../files/theses/Akram_thesis.pdf&#34;&gt;Thesis&lt;/a&gt;]&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://scholar.google.com.au/citations?hl=en&amp;amp;user=lGaPcH4AAAAJ&#34;&gt;Sheeraz Akhtar Alvi&lt;/a&gt;&lt;/strong&gt;, Analysis and Design of Communication Policies for Energy-Constrained Machine-Type Devices, July 2016 - June 2020. [&lt;a href=&#34;../files/theses/Sheeraz_thesis.pdf&#34;&gt;Thesis&lt;/a&gt;]&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://www.linkedin.com/in/xiaohui-katrina-zhou-3840487a/&#34;&gt;Xiaohui Zhou&lt;/a&gt;&lt;/strong&gt;, Analysis and Design of Communication Policies for Energy-Constrained Machine-Type Devices, July 2016 - June 2020. [&lt;a href=&#34;../files/theses/Xiaohui_thesis.pdf&#34;&gt;Thesis&lt;/a&gt;]&lt;/li&gt;
