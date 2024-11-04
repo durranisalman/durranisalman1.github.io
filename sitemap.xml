@@ -213,6 +213,16 @@
   </url>
   
   <url>
+    <loc>/publication/journal69/</loc>
+    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/w.-wang/</loc>
+    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/news15/</loc>
     <lastmod>2024-01-02T00:00:00+00:00</lastmod>
   </url>
@@ -220,6 +230,16 @@
   <url>
     <loc>/post/news18/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/1/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/conf93/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -243,12 +263,17 @@
   </url>
   
   <url>
-    <loc>/publication_types/1/</loc>
+    <loc>/publication/journal68/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/conf93/</loc>
+    <loc>/authors/q.-cui/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/s.-wang/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -315,21 +340,6 @@
   <url>
     <loc>/authors/s.-idreas/</loc>
     <lastmod>2022-06-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/journal68/</loc>
-    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/q.-cui/</loc>
-    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/s.-wang/</loc>
-    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1576,10 +1586,6 @@
   </url>
   
   <url>
-    <loc>/publication/journal69/</loc>
-  </url>
-  
-  <url>
     <loc>/tags/past/</loc>
   </url>
   
@@ -1609,10 +1615,6 @@
   
   <url>
     <loc>/project/uav/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/w.-wang/</loc>
   </url>
   
   <url>
