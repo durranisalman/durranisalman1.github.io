@@ -5,12 +5,28 @@
     <link>/authors/x.-zhou/</link>
       <atom:link href="/authors/x.-zhou/index.xml" rel="self" type="application/rss+xml" />
     <description>X. Zhou</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>X. Zhou</title>
       <link>/authors/x.-zhou/</link>
     </image>
+    
+    <item>
+      <title>A Survey on IoT Ground Sensing Systems for Early Wildfire Detection: Technologies, Challenges and Opportunities</title>
+      <link>/publication/journal74/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/journal74/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and Performance Analysis of UAV‐Assisted Maritime‐LEO Satellite Communication Networks</title>
+      <link>/publication/journal77/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/journal77/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Coverage Analysis for 3D Indoor Terahertz Communication System Over Fluctuating Two‐Ray Fading Channels</title>
@@ -21,26 +37,10 @@
     </item>
     
     <item>
-      <title>Design and Performance Analysis of UAV‐Assisted Maritime‐LEO Satellite Communication Networks</title>
-      <link>/publication/journal77/</link>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/journal77/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Joint Active and Passive Beamforming for IRS‐assisted Monostatic Backscatter Systems: An Unsupervised Learning Approach</title>
       <link>/publication/journal72/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
       <guid>/publication/journal72/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Survey on IoT Ground Sensing Systems for Early Wildfire Detection: Technologies, Challenges and Opportunities</title>
-      <link>/publication/journal74/</link>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/journal74/</guid>
       <description></description>
     </item>
     
