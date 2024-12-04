@@ -5,12 +5,28 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Early Detection of Wildfire Using IoT Sensors without Labelled Fire Data</title>
+      <link>/publication/conf95/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/conf95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sub‐Band Assignment and Power Allocation With Beam Multiplexing and Aggregation in Terahertz Communications</title>
+      <link>/publication/conf94/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/conf94/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Modified AKMA for Decentralized Authentication in LEO Satellite‐Based IoT Networks</title>
