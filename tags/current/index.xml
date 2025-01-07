@@ -28,6 +28,21 @@
     </item>
     
     <item>
+      <title>Ground Based IoT Sensor Networks for Wildfire Detection</title>
+      <link>/project/bushfire/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/bushfire/</guid>
+      <description>&lt;p&gt;The basic goal of this project is to develop an IoT (internet of things) ground-based sensor system to provide rapid detection of fires in their early stages. This project is funded through the &lt;a href=&#34;https://brcoe.org/project/ground-based-iot-sensor-networks/&#34;&gt;[ANU Bushfire Research Centre of Excellence]&lt;/a&gt;. The project has resulted in two journal papers and 1 conference paper so far, where I am a co-author.&lt;/p&gt;
+&lt;p&gt;Specific contributions include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Survey paper on IoT Ground Sensing Systems for Early Wildfire Detection: &lt;a href=&#34;https://doi.org/10.1109/ACCESS.2024.3501336&#34;&gt;[Magazine paper]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Machine learning based detection algorithm: &lt;a href=&#34;https://s-durrani.com/publication/&#34;&gt;[Journal paper]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Statistical detection algorithm: &lt;a href=&#34;https://s-durrani.com/publication/&#34;&gt;[Conference paper]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Machine Learning in Wireless Networks</title>
       <link>/project/machine_learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -48,14 +63,15 @@
       <description>&lt;p&gt;The basic goal of this project is to investigate and propose novel strategies to leverage UAV and Satellite communications in 5G and beyond 5G communications. The project has resulted in two PhD theses, one undergraduate hons thesis, 8 journal papers and 5 conference papers so far.&lt;/p&gt;
 &lt;p&gt;Specific contributions include:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Stadium use case for UAV base station: &lt;a href=&#34;https://doi.org/10.1109/JIOT.2018.2875166&#34;&gt;[1]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;UAV to support rapid information dissemination in a public safety scenario: &lt;a href=&#34;https://doi.org/10.1109/ACCESS.2019.2962224&#34;&gt;[2]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Trajectory modelling for cellular connected UAVs: &lt;a href=&#34;https://doi.org/10.1109/ICC40277.2020.9149407&#34;&gt;[3]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Multitier UAV network with beam misalignments: &lt;a href=&#34;https://doi.org/10.1109/JIOT.2023.3299279&#34;&gt;[4]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;UAV with caching and multicasting for file sharing in temporary events: &lt;a href=&#34;https://doi.org/10.1109/TCOMM.2024.3369725&#34;&gt;[5]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;UAV aggregator for IoT monitoring network with reliability and latency requirements: &lt;a href=&#34;&#34;&gt;[6]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;UAV-assisted maritime-satellite communication network: &lt;a href=&#34;&#34;&gt;[7]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Authentication in LEO Satellite-Based IoT Networks with UAV eavesdropper: &lt;a href=&#34;&#34;&gt;[8]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Stadium use case for UAV base station: &lt;a href=&#34;https://doi.org/10.1109/JIOT.2018.2875166&#34;&gt;[Journal paper]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;UAV to support rapid information dissemination in a public safety scenario: &lt;a href=&#34;https://doi.org/10.1109/ACCESS.2019.2962224&#34;&gt;[Journal paper]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Trajectory modelling for cellular connected UAVs: &lt;a href=&#34;https://doi.org/10.1109/ICC40277.2020.9149407&#34;&gt;[Journal paper]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Multitier UAV network with beam misalignments: &lt;a href=&#34;https://doi.org/10.1109/JIOT.2023.3299279&#34;&gt;[Journal paper]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;UAV with caching and multicasting for file sharing in temporary events: &lt;a href=&#34;https://doi.org/10.1109/TCOMM.2024.3369725&#34;&gt;[Journal paper]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;UAV aggregator for IoT monitoring network with reliability and latency requirements: &lt;a href=&#34;&#34;&gt;[Journal paper]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;UAV-assisted maritime-satellite communication network: &lt;a href=&#34;&#34;&gt;[Journal paper]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Authentication in LEO Satellite-Based IoT Networks with UAV eavesdropper: &lt;a href=&#34;&#34;&gt;[Journal paper]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;UAV and SWIPT: &lt;a href=&#34;https://doi.org/10.1109/ICCWorkshops53468.2022.9814490&#34;&gt;[Conference paper]&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
