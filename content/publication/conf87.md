@@ -9,7 +9,7 @@ date: "2021-09-01"
 doi: "10.1109/PIMRC50174.2021.9569500"
 
 publication_types: ["1"]
-publication: "IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)"
+publication: "Proc. IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)"
 publication_short: ""
 
 url_pdf: "https://ieeexplore.ieee.org/iel7/9569244/9569245/09569500.pdf"

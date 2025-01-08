@@ -14,16 +14,17 @@
 
 
 <div class="pub-list-item" style="margin-bottom: 1rem">
+  
   <i class="{{$icon_pack}} {{$icon}} pub-icon" aria-hidden="true"></i>
 
   {{/* MLA Style */}}
-
   <span class="article-metadata li-cite-author">
     {{ partial "page_metadata_authors" . }}
   </span>.
   {{ if .Params.doi }}
   	<a href="https://doi.org/{{ $item.Params.doi }}">{{ .Title }}</a>.
   {{ else }}
+  
  	<a href="">{{ .Title }}</a>.
   {{ end }}
   {{ if .Params.publication_short }}
@@ -38,6 +39,7 @@
   <div class="article-metadata">
     {{ partial "page_metadata_authors" $item }}
   </div>
+  
   {{ end }}
 
 

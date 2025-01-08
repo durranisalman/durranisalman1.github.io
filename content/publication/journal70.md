@@ -6,8 +6,8 @@ authors:
 - C. Thapa
 - admin
 - S. Camtepe
-date: "2023-05-01"
-doi: "10.48550/arXiv.2303.00307"
+date: "2024-04-01"
+doi: "10.1109/JIOT.2023.3331362"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,7 +22,7 @@ publication_short: ""
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://arxiv.org/pdf/2303.00307.pdf
+url_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10314429"
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -31,5 +31,3 @@ url_slides: ''
 url_source: ''
 url_video: ''
 ---
-
-

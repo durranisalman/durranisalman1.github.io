@@ -6,8 +6,8 @@ authors:
 - admin
 - F. Tong
 - J. Pan
-date: "2019-03-18"
-doi: "10.48550/arXiv.1903.07757"
+date: "2022-03-30"
+doi: "10.1002/mma.7951"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,7 +22,7 @@ publication_short: ""
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://arxiv.org/pdf/1903.07757.pdf
+url_pdf: "https://arxiv.org/pdf/1903.07757.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -12,7 +12,7 @@ date: "2022-05-01"
 doi: "10.1109/ICC45855.2022.9838818"
 
 publication_types: ["1"]
-publication: "IEEE International Conference on Communications (ICC), Seoul, South Korea"
+publication: "Proc. IEEE International Conference on Communications (ICC)"
 publication_short: ""
 
 url_pdf: "https://ieeexplore.ieee.org/iel7/9837954/9838246/09838818.pdf"

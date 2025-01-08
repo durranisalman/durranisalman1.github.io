@@ -44,112 +44,287 @@
   
   <url>
     <loc>/authors/admin/</loc>
-    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/1/</loc>
-    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/conf93/</loc>
-    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/c.-thapa/</loc>
-    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/s.-camtepe/</loc>
-    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/s.-khan/</loc>
-    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/2/</loc>
-    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/journal73/</loc>
-    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+    <loc>/authors/</loc>
+    <lastmod>2025-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/h.-yanikomeroglu/</loc>
-    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+    <loc>/authors/c.-c.-chan/</loc>
+    <lastmod>2025-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/j.-guo/</loc>
-    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+    <loc>/publication/journal78/</loc>
+    <lastmod>2025-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/journal72/</loc>
-    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+    <loc>/publication_types/</loc>
+    <lastmod>2025-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/s.-idrees/</loc>
-    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+    <loc>/publication/</loc>
+    <lastmod>2025-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/x.-jia/</loc>
-    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+    <loc>/post/</loc>
+    <lastmod>2025-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/news20/</loc>
+    <lastmod>2025-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/x.-zhou/</loc>
-    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/z.-fei/</loc>
-    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+    <loc>/publication/journal76/</loc>
+    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal77/</loc>
+    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/j.-guo/</loc>
+    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/j.-m.-jornet/</loc>
+    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/m.-juntti/</loc>
+    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/n.-senadhira/</loc>
+    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/n.-yang/</loc>
+    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/z.-tang/</loc>
+    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal75/</loc>
+    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/c.-thapa/</loc>
+    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/s.-alvi/</loc>
+    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/s.-camtepe/</loc>
+    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/s.-khan/</loc>
+    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal74/</loc>
+    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/1/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/c.-c.-chiu/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/conf95/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/q.-zhuang/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/conf94/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/t.-ilyas/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/news19/</loc>
+    <lastmod>2024-11-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal73/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/m.-yerba/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/n.-wilson/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal72/</loc>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/s.-idrees/</loc>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/x.-jia/</loc>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/z.-xu/</loc>
-    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal71/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/h.-yanikomeroglu/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/z.-fei/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal70/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/journal69/</loc>
-    <lastmod>2023-07-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/w.-wang/</loc>
-    <lastmod>2023-07-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/news15/</loc>
+    <lastmod>2024-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/news18/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/conf93/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2023-06-04T19:36:44+10:00</lastmod>
+    <lastmod>2023-10-01T18:35:04+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/software/</loc>
+    <lastmod>2023-10-01T18:35:04+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/activities/</loc>
+    <lastmod>2023-10-01T18:35:04+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/</loc>
+    <lastmod>2023-10-01T18:35:04+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal68/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/q.-cui/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/s.-wang/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal67/</loc>
+    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/m.-b.-shahab/</loc>
+    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/s.-j.-johnson/</loc>
+    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -158,27 +333,12 @@
   </url>
   
   <url>
-    <loc>/aaa/</loc>
-    <lastmod>2023-06-04T14:11:06+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/journal70/</loc>
-    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+    <loc>/post/news16/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/conf92/</loc>
-    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/n.-senadhira/</loc>
-    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/n.-yang/</loc>
     <lastmod>2023-05-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -188,13 +348,8 @@
   </url>
   
   <url>
-    <loc>/authors/s.-alvi/</loc>
-    <lastmod>2023-04-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/journal71/</loc>
-    <lastmod>2023-04-25T00:00:00+00:00</lastmod>
+    <loc>/post/news17/</loc>
+    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -203,23 +358,13 @@
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <loc>/publication/journal66/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/journal67/</loc>
-    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/m.-b.-shahab/</loc>
-    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/s.-j.-johnson/</loc>
-    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
+    <loc>/authors/y.-hong/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -230,21 +375,6 @@
   <url>
     <loc>/authors/s.-idreas/</loc>
     <lastmod>2022-06-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/journal68/</loc>
-    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/q.-cui/</loc>
-    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/s.-wang/</loc>
-    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -273,11 +403,6 @@
   </url>
   
   <url>
-    <loc>/authors/j.-m.-jornet/</loc>
-    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/conf90/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
   </url>
@@ -288,13 +413,23 @@
   </url>
   
   <url>
-    <loc>/authors/y.-hong/</loc>
-    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+    <loc>/publication/journal64/</loc>
+    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/journal66/</loc>
-    <lastmod>2022-04-17T00:00:00+00:00</lastmod>
+    <loc>/authors/f.-tong/</loc>
+    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/j.-pan/</loc>
+    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/r.-pure/</loc>
+    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -308,11 +443,6 @@
   </url>
   
   <url>
-    <loc>/publication/journal63/</loc>
-    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/conf87/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
   </url>
@@ -323,6 +453,11 @@
   </url>
   
   <url>
+    <loc>/publication/journal62/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/journal61/</loc>
     <lastmod>2021-04-23T00:00:00+00:00</lastmod>
   </url>
@@ -330,16 +465,6 @@
   <url>
     <loc>/authors/r.-saleem/</loc>
     <lastmod>2021-04-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/journal62/</loc>
-    <lastmod>2021-04-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/m.-juntti/</loc>
-    <lastmod>2021-04-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -363,22 +488,17 @@
   </url>
   
   <url>
-    <loc>/authors/d.-niyato/</loc>
-    <lastmod>2020-06-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/journal60/</loc>
-    <lastmod>2020-06-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/conf84/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/conf86/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/d.-niyato/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -450,26 +570,6 @@
   <url>
     <loc>/post/news5/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/journal64/</loc>
-    <lastmod>2019-03-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/f.-tong/</loc>
-    <lastmod>2019-03-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/j.-pan/</loc>
-    <lastmod>2019-03-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/r.-pure/</loc>
-    <lastmod>2019-03-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -815,31 +915,6 @@
   <url>
     <loc>/publication/conf66/</loc>
     <lastmod>2016-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post2/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/demo/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1518,7 +1593,7 @@
   </url>
   
   <url>
-    <loc>/project/phd/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
@@ -1526,11 +1601,23 @@
   </url>
   
   <url>
-    <loc>/project/d2d_m2m/</loc>
+    <loc>/publication/journal60/</loc>
   </url>
   
   <url>
     <loc>/project/distance_distributions/</loc>
+  </url>
+  
+  <url>
+    <loc>/project/arc_mtom/</loc>
+  </url>
+  
+  <url>
+    <loc>/project/bushfire/</loc>
+  </url>
+  
+  <url>
+    <loc>/project/arc_spherical_signal_processing/</loc>
   </url>
   
   <url>
@@ -1542,19 +1629,15 @@
   </url>
   
   <url>
-    <loc>/tags/phd/</loc>
-  </url>
-  
-  <url>
     <loc>/project/</loc>
   </url>
   
   <url>
-    <loc>/project/spherical_signal_processing/</loc>
+    <loc>/publication/journal63/</loc>
   </url>
   
   <url>
-    <loc>/project/synchronization/</loc>
+    <loc>/tags/</loc>
   </url>
   
   <url>
@@ -1562,7 +1645,7 @@
   </url>
   
   <url>
-    <loc>/project/backscatter_communications/</loc>
+    <loc>/project/arc_thz/</loc>
   </url>
   
 </urlset>

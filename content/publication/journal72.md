@@ -7,8 +7,8 @@ authors:
 - Z. Xu
 - X. Jia
 - X. Zhou
-date: "2023-08-01"
-doi: ""
+date: "2024-09-01"
+doi: "10.1109/TMLCN.2024.3355317"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,7 +23,7 @@ publication_short: ""
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10401960"
 url_code: ''
 url_dataset: ''
 url_poster: ''

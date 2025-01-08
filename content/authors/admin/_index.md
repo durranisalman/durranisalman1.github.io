@@ -19,7 +19,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research area is Communications and Signal processing.
+bio: My research area is communications, wireless communications and signal processing for communications.
 
 interestss:
 - Machine learning for Internet of Things applications
@@ -76,17 +76,24 @@ user_groups:
 - Visitors
 ---
 
-I am a Professor in the School of Engineering (SOEN), College of Engineering & Computing and Cybernetics (CECC), The Australian National University, Canberra, Australia.
+I am a Professor in the [School of Engineering (SOEN)](https://eng.anu.edu.au/people/salman-durrani/), College of Engineering, Computing and Cybernetics (CECC), The Australian National University, Canberra, Australia. 
 
-My research area is Communications and Signal processing. I am also a Senior Member, IEEE, USA and a Senior Fellow of HEA, UK.
+Since 2021, I have served as the Associate Director Education for the School of Engineering. Since 2022, I have been a participant in the ANU Optus Bushfire Research Centre of Excellence.
 
-### Research Interests
-- Machine learning for Internet of Things applications
-- Drone (UAV) communications
-- Wireless power transfer and energy harvesting
-- Wireless sensor, device to device and machine to machine networks
-- Synchronization and channel estimation
-- Stochastic geometry
-- Distance distributions and connectivity
-- Signal processing for spherical and biomedical applications
+My research interests have spanned topics in communications, wireless communications and signal processing for communications.
+
+### Current Research Interests
+- Advanced Physical Layer Technologies for 6G and Beyond
+  - NOMA
+  - Backscatter and IRS
+  - ISAC
+- Integrated Space/Aerial/Terrestrial Networks
+  - UAV communications
+  - Satellite communications
+- Internet of Things Networks
+  - Authentication
+  - Early wildfire detection
+- Machine Learning for Wireless Networks
+- Stochastic Geometry for Wireless Networks
+ 
 

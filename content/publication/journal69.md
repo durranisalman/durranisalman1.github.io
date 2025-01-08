@@ -7,8 +7,8 @@ authors:
 - J. Guo
 - admin
 - H. Yanikomeroglu
-date: "2023-07-18"
-doi: "10.48550/arXiv.2307.12799"
+date: "2024-02-01"
+doi: "10.1109/JIOT.2023.3299279"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,7 +23,7 @@ publication_short: ""
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://arxiv.org/pdf/2307.12799.pdf
+url_pdf: "https://ieeexplore.ieee.org/document/10195979"
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -32,5 +32,3 @@ url_slides: ''
 url_source: ''
 url_video: ''
 ---
-
-

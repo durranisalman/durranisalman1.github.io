@@ -6,14 +6,14 @@ authors:
 - admin
 - S. Camtepe
 
-date: "2023-09-01"
-doi: ""
+date: "2023-12-01"
+doi: "10.1109/GCWkshps58843.2023.10464957"
 
 publication_types: ["1"]
-publication: "*Proc. IEEE Global Communications Conference Workshops (GC Workshops)*"
+publication: "Proc. IEEE Global Communications Conference Workshops (GC Workshops)"
 publication_short: ""
 
-url_pdf: ""
+url_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10464957"
 url_code: ""
 url_dataset: ""
 url_poster: ""
@@ -22,3 +22,4 @@ url_slides: ""
 url_source: ""
 url_video: ""
 ---
+

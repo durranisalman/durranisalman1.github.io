@@ -86,14 +86,14 @@ phone = "+61 2 6125 6573"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "115 North Rd", city = "Acton", region = "ACT", postcode = "2601", country = "Australia", country_code = "AU"}
+address = {street = "31 North Rd", city = "Acton", region = "ACT", postcode = "2601", country = "Australia", country_code = "AU"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "-35.274208453638344", longitude = "149.12044414232798"}
+coordinates = {latitude = "-35.27604582537195", longitude = "149.12016148545052"}
 
 # Directions for visitors to locate you.
-directions = "Room B156, Brian Anderson Building (Bldg 115)"
+directions = "Room R220b, Ian Ross Building (Bldg 31)"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.

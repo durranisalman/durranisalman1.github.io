@@ -7,7 +7,7 @@ authors:
 - Q. Cui
 - admin
 - H. Yanikomeroglu
-date: "2022-05-25"
+date: "2023-09-01"
 doi: "10.1109/JIOT.2023.3265030"
 
 # Publication type.
@@ -23,7 +23,7 @@ publication_short: ""
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10093957
+url_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10093957"
 url_code: ''
 url_dataset: ''
 url_poster: ''

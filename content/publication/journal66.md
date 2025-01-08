@@ -1,12 +1,12 @@
 
 ---
-title: "Federated Learning Cost Disparity for IoT Devices"
+title: "Utility Fairness for the Differentially Private Federated-Learning-Based Wireless IoT Networks"
 authors:
 - S. Alvi
 - Y. Hong
 - admin
-date: "2022-04-17"
-doi: "10.48550/arXiv.2204.08036"
+date: "2022-10-01"
+doi: "10.1109/JIOT.2022.3165596"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -21,7 +21,7 @@ publication_short: ""
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9814533
+url_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9751049"
 url_code: ''
 url_dataset: ''
 url_poster: ''

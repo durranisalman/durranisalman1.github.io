@@ -15,8 +15,8 @@
   <i class="{{$icon_pack}} {{$icon}} pub-icon" aria-hidden="true"></i>
   {{ ($item.Params.date).Format ("01/2006") }}
   <br> <!-- Add a line break after the colon -->
-  {{$item.Title | markdownify | emojify}}
 
+  {{$item.Title | markdownify | emojify}}
 
 
   {{ if and $show_authors $item.Params.authors }}

@@ -12,7 +12,7 @@ publication_types: ["2"]
 publication: "*IEEE Access*"
 publication_short: ""
 
-url_pdf: "https://ieeexplore.ieee.org/iel7/6287639/6514899/09411832.pdf"
+url_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9411832"
 url_code: ""
 url_dataset: ""
 url_poster: ""
@@ -21,4 +21,3 @@ url_slides: ""
 url_source: ""
 url_video: ""
 ---
-

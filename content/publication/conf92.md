@@ -8,10 +8,10 @@ authors:
 - admin
 
 date: "2023-05-01"
-doi: ""
+doi: "10.1109/ICCWorkshops57953.2023.10283565"
 
 publication_types: ["1"]
-publication: "*Proc. IEEE International Conference on Communications Workshops (ICC Workshops)*, Rome, Italy"
+publication: "Proc. IEEE International Conference on Communications Workshops (ICC Workshops)"
 publication_short: ""
 
 url_pdf: ""

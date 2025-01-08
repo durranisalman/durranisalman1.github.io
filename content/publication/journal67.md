@@ -6,8 +6,8 @@ authors:
 - M. B. Shahab
 - S. J. Johnson
 - S. Camtepe
-date: "2022-09-14"
-doi: "10.48550/arXiv.2209.06392"
+date: "2023-07-11"
+doi: "10.1109/OJCOMS.2023.3292820"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,7 +22,7 @@ publication_short: ""
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://arxiv.org/pdf/2303.00307.pdf
+url_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10178037"
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -31,5 +31,3 @@ url_slides: ''
 url_source: ''
 url_video: ''
 ---
-
-

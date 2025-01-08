@@ -6,7 +6,7 @@ authors:
 - admin
 - D. Niyato
 
-date: "2020-06-23"
+date: "2020-10-1"
 doi: "10.1109/TWC.2020.3002578"
 
 publication_types: ["2"]

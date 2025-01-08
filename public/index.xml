@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description></description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 04 Jun 2023 19:36:44 +1000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2023 18:35:04 +1100</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title></title>
@@ -117,17 +117,81 @@
     </item>
     
     <item>
-      <title>Beyond Key-Based Authentication: A Novel Continuous Authentication Paradigm for IoTs</title>
-      <link>/publication/conf93/</link>
-      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/conf93/</guid>
+      <title>IoT Early Wildfire Detection and Labeling Models Using Time Series Features and Machine Learning</title>
+      <link>/publication/journal78/</link>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/journal78/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Design and Performance Analysis of Cache‐Enabled Multicast in UAV‐Enhanced Cellular Networks</title>
+      <title>The current and past projects have now been updated.</title>
+      <link>/post/news20/</link>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/post/news20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coverage Analysis for 3D Indoor Terahertz Communication System Over Fluctuating Two‐Ray Fading Channels</title>
+      <link>/publication/journal76/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/journal76/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and Performance Analysis of UAV‐Assisted Maritime‐LEO Satellite Communication Networks</title>
+      <link>/publication/journal77/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/journal77/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Modified AKMA for Decentralized Authentication in LEO Satellite‐Based IoT Networks</title>
+      <link>/publication/journal75/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/journal75/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UAV-assisted IoT Monitoring Network: Adaptive Multiuser Access for Low-Latency and High-Reliability Under Bursty Traffic</title>
+      <link>/publication/journal74/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/journal74/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early Detection of Wildfire Using IoT Sensors without Labelled Fire Data</title>
+      <link>/publication/conf95/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/conf95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sub‐Band Assignment and Power Allocation With Beam Multiplexing and Aggregation in Terahertz Communications</title>
+      <link>/publication/conf94/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/conf94/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My former PhD student Zubair Khalid was a part of the team which won the prestigious [Gordon Bell Prize for Climate Modelling](https://awards.acm.org/bell-climate).</title>
+      <link>/post/news19/</link>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/post/news19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Survey on IoT Ground Sensing Systems for Early Wildfire Detection: Technologies, Challenges and Opportunities</title>
       <link>/publication/journal73/</link>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       <guid>/publication/journal73/</guid>
       <description></description>
     </item>
@@ -135,16 +199,317 @@
     <item>
       <title>Joint Active and Passive Beamforming for IRS‐assisted Monostatic Backscatter Systems: An Unsupervised Learning Approach</title>
       <link>/publication/journal72/</link>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
       <guid>/publication/journal72/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and Performance Analysis of Cache‐Enabled Multicast in UAV‐Enhanced Cellular Networks</title>
+      <link>/publication/journal71/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/journal71/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Access-Based Lightweight Physical Layer Authentication for the Internet of Things Devices</title>
+      <link>/publication/journal70/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/journal70/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Outage Performance of Multi‐Tier UAV Communication With Random Beam Misalignment</title>
       <link>/publication/journal69/</link>
-      <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
       <guid>/publication/journal69/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New website is live!</title>
+      <link>/post/news15/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/post/news15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I have been invited to join the IEEE Transactions on Wireless Communications as an Editor in the area Wireless Communication Theory and Systems II.</title>
+      <link>/post/news18/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/post/news18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond Key-Based Authentication: A Novel Continuous Authentication Paradigm for IoTs</title>
+      <link>/publication/conf93/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/conf93/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mathematica and Matlab Software for Computing Distance Distributions</title>
+      <link>/software/</link>
+      <pubDate>Sun, 01 Oct 2023 18:35:04 +1100</pubDate>
+      <guid>/software/</guid>
+      <description>&lt;p&gt;During the course of my research, I have written a number of software libraries in collaboration with my students. One of them is now available publicly here and others will be made available in the future.&lt;/p&gt;
+&lt;p&gt;If you use the software in your research, please reference our relevant publication (see details below).&lt;/p&gt;
+&lt;p&gt;If you have any suggestions for improving the software, please email me and we can incorporate this in the software.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;computing-distance-distributions-between-two-random-points-each-uniformly-randomly-distributed-in-arbitrary-concave-or-convex-polygons-with-or-without-holes-released-jan-2021&#34;&gt;&lt;strong&gt;Computing distance distributions between two random points, each uniformly randomly distributed in arbitrary (concave or convex) polygons with or without holes [Released: Jan. 2021]&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Mathematica Notebooks:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../files/software/Example1.nb&#34;&gt;Example 1&lt;/a&gt;: Abritrary polygons without holes. Requires Mathematica 11 or higher version.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../files/software/Example2.nb&#34;&gt;Example 2&lt;/a&gt;: Abritrary polygons with holes. Requires Mathematica 12.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Our &lt;a href=&#34;https://arxiv.org/abs/1903.07757&#34;&gt;paper&lt;/a&gt; is currently under review in Mathematical Methods in Applied Sciences journal (revised: 24 Jan. 2021)&lt;/li&gt;
+&lt;li&gt;Screenshot: &lt;img src=&#34;/fig1.jpg&#34; alt=&#34;fig1&#34;&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;computing-distance-distributions-in-arbitrary-convex-or-concave-polygon-regions-with-holes-and-arbitrary-reference-point-released-coming-soon&#34;&gt;&lt;strong&gt;Computing distance distributions in arbitrary (convex or concave) polygon regions with holes and arbitrary reference point [Released: coming soon!]&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;In K-tier heterogeneous networks, the coverage regions are modelled using a multiplicatively weighted Voronoi diagram. This software computes: (i) the exact closed-form probability density function and (ii) the exact closed-form cumulative density function of the distance between a randomly located node and any arbitrary reference point inside or outside an arbitrarily shaped multiplicatively weighted Voronoi cell.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Matlab code (zipped): Developed and tested [Nov. 2014].&lt;/li&gt;
+&lt;li&gt;Mathematica code&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Our paper is still in draft form and I am hoping to write it up in the second half of this year.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Screenshot: &lt;img src=&#34;/fig2.jpg&#34; alt=&#34;fig2&#34;&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;computing-exact-closed-form-distance-distributions-in-arbitrary-convex-or-concave-polygon-regions-without-holes-and-arbitrary-reference-point-released-june-2015&#34;&gt;&lt;strong&gt;Computing exact closed-form distance distributions in arbitrary (convex or concave) polygon regions without holes and arbitrary reference point [Released: June 2015]&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;This software computes: (i) the exact closed-form probability density function and (ii) the exact closed-form cumulative density function of the distance between a randomly located node and any arbitrary reference point inside an arbitrary L-sided convex polygon.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mathematica-journal.com/2015/06/computing-exact-closed-form-distance-distributions-in-arbitrarily-shaped-polygons-with-arbitrary-reference-point/&#34;&gt;Mathematica Notebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Screenshot: &lt;img src=&#34;/fig3.jpg&#34; alt=&#34;fig3&#34;&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;computing-exact-closed-form-distance-distributions-in-arbitrary-convex-polygon-regions-with-interior-reference-point&#34;&gt;&lt;strong&gt;Computing exact closed-form distance distributions in arbitrary convex polygon regions with interior reference point&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;This software computes: (i) the exact closed-form probability density function and (ii) the exact closed-form cumulative density function of the distance between a randomly located node and any arbitrary reference point inside an arbitrary L-sided convex polygon.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../files/software/2014_ieeetcom.pdf&#34;&gt;Our relevant IEEE TCOM paper (see Appendix A)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Mathematica Notebook: This will no longer be posted. See our &lt;a href=&#34;http://www.mathematica-journal.com/2015/06/computing-exact-closed-form-distance-distributions-in-arbitrarily-shaped-polygons-with-arbitrary-reference-point/&#34;&gt;Mathematica Notebook&lt;/a&gt;, which can handle both concave and convex polygons.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;computing-exact-closed-form-distance-distributions-in-regular-polygon-regions-with-interior-reference-point-released-may-2013&#34;&gt;&lt;strong&gt;Computing exact closed-form distance distributions in regular polygon regions with interior reference point [Released: May 2013]&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;This software computes: (i) the exact closed-form probability density function and (ii) the exact closed-form cumulative density function of the distance between a randomly located node and any arbitrary reference point inside a regular L-sided polygon. These results can be used to obtain the closed-form probability density function of the Euclidean distance between any arbitrary reference point and its nth neighbor node when N nodes are uniformly and independently distributed (i.e. according to a uniform Binomial Point Process) inside a regular L-sided polygon. These distance distributions have many applications in wireless networks. This code is available in both Mathematica and Matlab.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../files/software/Compute_DistanceDistributions_Polygon_v1_Mathematica.pdf&#34;&gt;PDF of Mathematica Notebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../files/software/Compute_DistanceDistributions_Polygon_v1_Mathematica.zip&#34;&gt;Mathematica Notebook (zipped)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;files/software/Compute_DistanceDistributions_Polygon_v1_Matlab.zip&#34;&gt;Matlab Code (zipped)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../files/software/journals/2013_ieeetvt.pdf&#34;&gt;Our relevant IEEE TVT paper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Applications: &lt;a href=&#34;../files/software/2014_ieeetcom.pdf&#34;&gt;IEEE TCOM paper&lt;/a&gt; and &lt;a href=&#34;../files/software/journals/2014_ieeetvt.pdf&#34;&gt;IEEE TVT paper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../files/software/Durrani_ausCTW2013.pdf&#34;&gt;Slides for AusCTW 2013 (invited talk)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Screenshot: &lt;img src=&#34;/fig4.jpg&#34; alt=&#34;fig4&#34;&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Professional Activities</title>
+      <link>/activities/</link>
+      <pubDate>Sun, 01 Oct 2023 18:35:04 +1100</pubDate>
+      <guid>/activities/</guid>
+      <description>&lt;h4 id=&#34;professional-activities&#34;&gt;&lt;strong&gt;Professional Activities&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Journal Editorial Board&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.comsoc.org/publications/journals/ieee-twc&#34;&gt;IEEE Transactions on Wireless Communications&lt;/a&gt;: Jan. 2024 - present.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.comsoc.org/publications/journals/ieee-tcom/ieee-transactions-communications-editorial-board&#34;&gt;IEEE Transactions on Communications&lt;/a&gt;: Feb. 2015 - Dec. 2020.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oldcitypublishing.com/AHSWN/AHSWN.html&#34;&gt;Ad Hoc &amp;amp; Sensor Wireless Networks Journal&lt;/a&gt;: June 2014 - June 2015.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Conference Technical Programme Committee Co-Chair&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2023 IEEE Wireless Communications and Networking Conference (WCNC) (co-chair for Track 3 AI and Optimisation for Wireless Communications).&lt;/li&gt;
+&lt;li&gt;2019 IEEE International Conference on Wireless for Space and Extreme Environments (WISEE) (TPC co-chair of Workshop on Integrated Ground-Air-Space Borne communications (IGASC)).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Conference Session Chair:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2014 IEEE International Conference on Communications (ICC), Sydney, Australia (Session CT-P1: Communication Theory Interactive Presentations).&lt;/li&gt;
+&lt;li&gt;2007 IEEE PIMRC conference, Athens, Greece (Session 36: Smart Antennas I &amp;amp; Session 62: Selforganization of wireless networks).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Conference Technical Program Committee Member:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;IEEE International Conference on Communications (&lt;strong&gt;ICC&lt;/strong&gt;): 2024-2012.&lt;/li&gt;
+&lt;li&gt;IEEE Global Telecommunications Conference (&lt;strong&gt;Globecom&lt;/strong&gt;): 2024-2016.&lt;/li&gt;
+&lt;li&gt;IEEE Vehicular Technology Conference (&lt;strong&gt;VTC&lt;/strong&gt;): 2018-2017.&lt;/li&gt;
+&lt;li&gt;IEEE International Conference on Signal Processing and Communication Systems (&lt;strong&gt;ICSPCS&lt;/strong&gt;): 2016-2013.&lt;/li&gt;
+&lt;li&gt;IEEE &lt;strong&gt;Globecom Workshop&lt;/strong&gt; - Emerging Technologies for 5G Wireless Cellular Networks: 2016-2014.&lt;/li&gt;
+&lt;li&gt;IEEE Personal, Indoor, and Mobile Radio Communication Conference (&lt;strong&gt;PIMRC&lt;/strong&gt;): 2012-2011.&lt;/li&gt;
+&lt;li&gt;Australian Communications Theory Workshop (&lt;strong&gt;AusCTW&lt;/strong&gt;): 2023, 2012-2011.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Conference Organising Committee Member&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2017 Australian Communications Theory Workshop: Finance Chair&lt;/li&gt;
+&lt;li&gt;2005 Australian Communications Theory Workshop: Local Organising Committee.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;technical-reviewer&#34;&gt;&lt;strong&gt;Technical Reviewer&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Journals (17)&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;IEEE Transactions on Wireless Communications&lt;/li&gt;
+&lt;li&gt;IEEE Transactions on Communications&lt;/li&gt;
+&lt;li&gt;IEEE Transactions on Signal Processing&lt;/li&gt;
+&lt;li&gt;IEEE Transactions on Vehicular Technology&lt;/li&gt;
+&lt;li&gt;IEEE Transactions on Antennas and Propagation&lt;/li&gt;
+&lt;li&gt;IEEE Journal on Selected Areas in Communications&lt;/li&gt;
+&lt;li&gt;IEEE Communications Letters&lt;/li&gt;
+&lt;li&gt;IEEE Signal Processing Letters&lt;/li&gt;
+&lt;li&gt;IEEE Transactions on Aerospace and Electronic Systems&lt;/li&gt;
+&lt;li&gt;IEEE Transactions on Green Communications and Networking&lt;/li&gt;
+&lt;li&gt;IEEE Transactions on Information Theory&lt;/li&gt;
+&lt;li&gt;IEEE Sensors Journal&lt;/li&gt;
+&lt;li&gt;IET Communications&lt;/li&gt;
+&lt;li&gt;Journal of Commnications and Networks (Korean)&lt;/li&gt;
+&lt;li&gt;Ad Hoc Networks (Elsevier)&lt;/li&gt;
+&lt;li&gt;Wireless Communications and Mobile Computing (Wiley)&lt;/li&gt;
+&lt;li&gt;EURASIP Journal on Wireless Communications and Networking&lt;/li&gt;
+&lt;li&gt;International Journal of Antennas and Propagation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;selected-presentations&#34;&gt;&lt;strong&gt;Selected Presentations&lt;/strong&gt;&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;&amp;ldquo;Design of NOMA Enhanced Backscatter Communications&amp;rdquo;, &lt;strong&gt;AusCTW&lt;/strong&gt;, Newcastle, Feb. 2018. [Slides]&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Energy Harvesting for Wireless Sensor Networks: Myth or Reality?&amp;quot;, &lt;strong&gt;EECS Seminar, University of Newcastle&lt;/strong&gt;, April 2016.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;external-thesis-examiner&#34;&gt;&lt;strong&gt;External Thesis Examiner&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Examiner for &lt;strong&gt;4&lt;/strong&gt; international PhD thesis&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;2022: University of British Columbia, Canada&lt;/li&gt;
+&lt;li&gt;2021: Lahore University of Management Sciences, Pakistan&lt;/li&gt;
+&lt;li&gt;2018: IIT Guwahati, India&lt;/li&gt;
+&lt;li&gt;2015: University of New Brunswick, Canada&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Examiner for &lt;strong&gt;31&lt;/strong&gt; external PhD thesis&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;2024: University of Sydney.&lt;/li&gt;
+&lt;li&gt;2024: Monash University.&lt;/li&gt;
+&lt;li&gt;2024: University of Sydney.&lt;/li&gt;
+&lt;li&gt;2023: RMIT University&lt;/li&gt;
+&lt;li&gt;2022: UNSW, Adfa&lt;/li&gt;
+&lt;li&gt;2022: University of Sydney&lt;/li&gt;
+&lt;li&gt;2022: RMIT University&lt;/li&gt;
+&lt;li&gt;2022: University of Sydney&lt;/li&gt;
+&lt;li&gt;2021: Flinders University&lt;/li&gt;
+&lt;li&gt;2021: RMIT&lt;/li&gt;
+&lt;li&gt;2021: Macquarie University&lt;/li&gt;
+&lt;li&gt;2020: Monash University&lt;/li&gt;
+&lt;li&gt;2020: RMIT&lt;/li&gt;
+&lt;li&gt;2020: RMIT&lt;/li&gt;
+&lt;li&gt;2020: Univ. of Technology Sydney&lt;/li&gt;
+&lt;li&gt;2019: Univ. of Melbourne&lt;/li&gt;
+&lt;li&gt;2019: Macquarie University&lt;/li&gt;
+&lt;li&gt;2019: Univ. of Melbourne&lt;/li&gt;
+&lt;li&gt;2018: Univ. of Sydney&lt;/li&gt;
+&lt;li&gt;2018: Macquarie University&lt;/li&gt;
+&lt;li&gt;2017: RMIT&lt;/li&gt;
+&lt;li&gt;2016: Univ. of Technology Sydney&lt;/li&gt;
+&lt;li&gt;2016: Monash University&lt;/li&gt;
+&lt;li&gt;2016: Macquarie University&lt;/li&gt;
+&lt;li&gt;2016: Univ. of Melbourne&lt;/li&gt;
+&lt;li&gt;2016: QUT&lt;/li&gt;
+&lt;li&gt;2015: Univ. of Melbourne&lt;/li&gt;
+&lt;li&gt;2015: Univ. of Tasmania&lt;/li&gt;
+&lt;li&gt;2013: QUT&lt;/li&gt;
+&lt;li&gt;2009: QUT&lt;/li&gt;
+&lt;li&gt;2008: Monash University&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Examiner for &lt;strong&gt;4&lt;/strong&gt; external MPhil thesis&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;2015: Macquarie University&lt;/li&gt;
+&lt;li&gt;2011: QUT&lt;/li&gt;
+&lt;li&gt;2009: Victoria University&lt;/li&gt;
+&lt;li&gt;2008: University of Queensland&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research Group</title>
+      <link>/people/</link>
+      <pubDate>Sun, 01 Oct 2023 18:35:04 +1100</pubDate>
+      <guid>/people/</guid>
+      <description>&lt;p&gt;I am passionately committed to the supervision of research students.&lt;/p&gt;
+&lt;p&gt;To date, I have supervised 100 students including 4 Postdoctoral Research Fellows, 15 PhD students (12 graduated), 6 Master of Engineering Hons students, 31 Bachelor of Engineering Research &amp;amp; Development students and 44 Bachelor of Engineering Research Hons students.&lt;/p&gt;
+&lt;p&gt;Please see my CV for full details, including student awards and honours and career outcomes. The details about my current and past PhD students are below.&lt;/p&gt;
+&lt;h3 id=&#34;current-phd-students&#34;&gt;&lt;strong&gt;Current PhD Students&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://www.linkedin.com/in/iiusman/?originalSubdomain=pk&#34;&gt;Muhammad Usman&lt;/a&gt;&lt;/strong&gt;, Machine Learning for Wireless Networks, Aug. 2023 - present
+&lt;ul&gt;
+&lt;li&gt;Scholarship(s): &lt;a href=&#34;https://www.anu.edu.au/study/scholarships/find-a-scholarship/anu-university-research-scholarships&#34;&gt;ANU University Research Scholarship&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Co-supervisor: Dr. Nan Yang and Dr. Xiangyun Zhou.&lt;/li&gt;
+&lt;li&gt;Joint PhD publication outcomes: To do.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://scholar.google.com.au/citations?hl=en&amp;amp;user=eEe1-SkAAAAJ&#34;&gt;Saud Khan&lt;/a&gt;&lt;/strong&gt;, Security for the Internet of Things, Jan. 2020 ‐ present
+&lt;ul&gt;
+&lt;li&gt;Scholarship(s): &lt;a href=&#34;http://www.anu.edu.au/students/scholarships-fees/scholarships/australian-government-research-training-program-agrtp&#34;&gt;Australian Government Research Training Program (AGRTP) Stipend Scholarship&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Co-supervisor: Dr. Chandra Thapa and Prof. Seyit Camtepe.&lt;/li&gt;
+&lt;li&gt;Joint PhD publication outcomes: 3 journal papers + 2 conference papers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;graduated-phd-students&#34;&gt;&lt;strong&gt;Graduated PhD Students&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;&#34;&gt;Nilupuli Senadhira&lt;/a&gt;&lt;/strong&gt;,Low Altitude Unmanned Aerial Vehicles in Wireless Networks, Jun 2018 - Dec. 2024. [&lt;a href=&#34;../files/theses/Nilu_Thesis.pdf&#34;&gt;Thesis&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://www.linkedin.com/in/sahar-idrees-20134871/&#34;&gt;Sahar Idrees&lt;/a&gt;&lt;/strong&gt;, Smart Reflection and Passive Communication: Synergizing Backscatter Communication and 6G Technologies for Future Wireless Networks, March 2018 - Aug. 2023. [&lt;a href=&#34;../files/theses/Sahar_thesis.pdf&#34;&gt;Thesis&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://scholar.google.com.au/citations?user=gFR-WZMAAAAJ&amp;amp;hl=en&amp;amp;oi=ao&#34;&gt;Akram Shafie&lt;/a&gt;&lt;/strong&gt;, Spectrum Allocation for Terahertz Band Communication Systems, Jan. 2020 - Jan. 2023. [&lt;a href=&#34;../files/theses/Akram_thesis.pdf&#34;&gt;Thesis&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://scholar.google.com.au/citations?hl=en&amp;amp;user=lGaPcH4AAAAJ&#34;&gt;Sheeraz Akhtar Alvi&lt;/a&gt;&lt;/strong&gt;, Analysis and Design of Communication Policies for Energy-Constrained Machine-Type Devices, July 2016 - June 2020. [&lt;a href=&#34;../files/theses/Sheeraz_thesis.pdf&#34;&gt;Thesis&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://www.linkedin.com/in/xiaohui-katrina-zhou-3840487a/&#34;&gt;Xiaohui Zhou&lt;/a&gt;&lt;/strong&gt;, Analysis and Design of Communication Policies for Energy-Constrained Machine-Type Devices, July 2016 - June 2020. [&lt;a href=&#34;../files/theses/Xiaohui_thesis.pdf&#34;&gt;Thesis&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://www.linkedin.com/in/abbas-koohian-921834229/&#34;&gt;Abbas Koohian&lt;/a&gt;&lt;/strong&gt;, Channel Estimation and Self-Interference Cancellation in Full-Duplex Communication Systems, May 2015 - May 2019. [&lt;a href=&#34;../files/theses/Abbas_thesis.pdf&#34;&gt;Thesis&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://scholar.google.com.au/citations?hl=en&amp;amp;user=NGBiMJEAAAAJ&#34;&gt;Wanchun Liu&lt;/a&gt;&lt;/strong&gt;, Wireless Communication Networks Powered By Energy Harvesting, July 2014 - Sep. 2017. [&lt;a href=&#34;../files/theses/Wanchun_Thesis.pdf&#34;&gt;Thesis&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://www.linkedin.com/in/yhuang771/&#34;&gt;Yifei Huang&lt;/a&gt;&lt;/strong&gt;, Interference Management in 5G Networks, March 2014 - May 2017. [&lt;a href=&#34;../files/theses/Yifei_Thesis.pdf&#34;&gt;Thesis&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://scholar.google.com.au/citations?hl=en&amp;amp;user=-BYsn6kAAAAJ&#34;&gt;Jing Guo&lt;/a&gt;&lt;/strong&gt;, Stochastic Geometry for Modeling, Analysis and Design of Future Wireless Networks, Sep. 2012 - March 2016. [&lt;a href=&#34;../files/theses/Jing_Thesis.pdf&#34;&gt;Thesis&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://scholar.google.com.au/citations?hl=en&amp;amp;user=PAyxkPoAAAAJ&#34;&gt;Shama Islam&lt;/a&gt;&lt;/strong&gt;, Multi-way Relay Networks: Characterization, Performance Analysis and Transmission Scheme Design, May 2015. [&lt;a href=&#34;../files/theses/Shama_Thesis.pdf&#34;&gt;Thesis&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://scholar.google.com.au/citations?hl=en&amp;amp;user=by5tc-oAAAAJ&#34;&gt;Zubair Khalid&lt;/a&gt;&lt;/strong&gt;, Spatio-Spectral Analysis on the Unit Sphere, April 2010 - April 2013. [&lt;a href=&#34;../files/theses/Zubair_Thesis.pdf&#34;&gt;Thesis&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://scholar.google.com.au/citations?hl=en&amp;amp;user=fY7-IlQAAAAJ&#34;&gt;Ali Nasir&lt;/a&gt;&lt;/strong&gt;, Synchronization in Cooperative Communication Systems, June 2010 - Sep. 2012. [&lt;a href=&#34;../files/theses/Ali_Thesis.pdf&#34;&gt;Thesis&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://scholar.google.com.au/citations?user=s4dIgfgAAAAJ&amp;amp;hl=en&#34;&gt;Xiangyun Zhou&lt;/a&gt;&lt;/strong&gt;, Transmision Resouce Allocation in Multi-Antenna Wireless Communication Systems with Channel Uncertainty, Jan. 2010 - June 2012. [&lt;a href=&#34;../files/theses/Xiangyun_Thesis.pdf&#34;&gt;Thesis&lt;/a&gt;]&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Energy Efficiency Optimization for Multiple Access in NOMA-Enabled Space-Air-Ground Networks</title>
+      <link>/publication/journal68/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/journal68/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint User and Data Detection in Grant-Free NOMA with Attention-based BiLSTM Network</title>
+      <link>/publication/journal67/</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/journal67/</guid>
       <description></description>
     </item>
     
@@ -157,19 +522,10 @@
     </item>
     
     <item>
-      <title>Aaa</title>
-      <link>/aaa/</link>
-      <pubDate>Sun, 04 Jun 2023 14:11:06 +1000</pubDate>
-      <guid>/aaa/</guid>
-      <description>&lt;p&gt;Here is some content.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Access-Based Lightweight Physical Layer Authentication for the Internet of Things Devices</title>
-      <link>/publication/journal70/</link>
-      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/journal70/</guid>
+      <title>I have been recognized as [2023 AI 2000 Most Influential Scholar Award Honorable Mention in Internet of Things (IoT)](../files/2023IoT.png) (ranked 67th in Internet of Things (IoT) over the past 10 years (2013–2022). I also received this award in 2022 and 2020.</title>
+      <link>/post/news16/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/post/news16/</guid>
       <description></description>
     </item>
     
@@ -182,10 +538,10 @@
     </item>
     
     <item>
-      <title>UAV-assisted IoT Monitoring Network: Adaptive Multiuser Access for Low-Latency and High-Reliability Under Bursty Traffic</title>
-      <link>/publication/journal71/</link>
-      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/journal71/</guid>
+      <title>It was a pleasure to serve as [Co‐chair for Track 3 AI and Optimisation for Wireless Communications](https://wcnc2023.ieee-wcnc.org/committees/technical-program-committee) in 2023 IEEE Wireless Communications and Networking Conference (WCNC).</title>
+      <link>/post/news17/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>/post/news17/</guid>
       <description></description>
     </item>
     
@@ -198,10 +554,10 @@
     </item>
     
     <item>
-      <title>Joint User and Data Detection in Grant-Free NOMA with Attention-based BiLSTM Network</title>
-      <link>/publication/journal67/</link>
-      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/journal67/</guid>
+      <title>Utility Fairness for the Differentially Private Federated-Learning-Based Wireless IoT Networks</title>
+      <link>/publication/journal66/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/journal66/</guid>
       <description></description>
     </item>
     
@@ -210,14 +566,6 @@
       <link>/publication/journal65/</link>
       <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
       <guid>/publication/journal65/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Energy Efficiency Optimization for Multiple Access in NOMA-Enabled Space-Air-Ground Networks</title>
-      <link>/publication/journal68/</link>
-      <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/journal68/</guid>
       <description></description>
     </item>
     
@@ -254,15 +602,15 @@
     </item>
     
     <item>
-      <title>Federated Learning Cost Disparity for IoT Devices</title>
-      <link>/publication/journal66/</link>
-      <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/journal66/</guid>
+      <title>Distance Distribution Between Two Random Nodes in Arbitrary Polygons</title>
+      <link>/publication/journal64/</link>
+      <pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/journal64/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>I have been recognized as [AI 2000 Internet of Things (IoT) Most Influential Scholars Honorable Mention](https://users.cecs.anu.edu.au/~Salman.Durrani/_images/2022IoT.png) (ranked 46th in Internet of Things (IoT) over the past 10 years (2012–2021).</title>
+      <title>I have been recognized as [AI 2000 Internet of Things (IoT) Most Influential Scholars Honorable Mention](../files/2022IoT.png) (ranked 46th in Internet of Things (IoT) over the past 10 years (2012–2021).</title>
       <link>/post/news13/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>/post/news13/</guid>
@@ -274,14 +622,6 @@
       <link>/post/news12/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       <guid>/post/news12/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spectrum Allocation with Adaptive Sub‐band Bandwidth for Terahertz Communication Systems</title>
-      <link>/publication/journal63/</link>
-      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/journal63/</guid>
       <description></description>
     </item>
     
@@ -302,18 +642,18 @@
     </item>
     
     <item>
-      <title>Performance-Fairness Trade-off for Wi-Fi and LTE-LAA Coexistence</title>
-      <link>/publication/journal61/</link>
-      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/journal61/</guid>
+      <title>Coverage Analysis for 3D Terahertz Communication Systems</title>
+      <link>/publication/journal62/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/journal62/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Coverage Analysis for 3D Terahertz Communication Systems</title>
-      <link>/publication/journal62/</link>
-      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/journal62/</guid>
+      <title>Performance-Fairness Trade-off for Wi-Fi and LTE-LAA Coexistence</title>
+      <link>/publication/journal61/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/journal61/</guid>
       <description></description>
     </item>
     
@@ -334,7 +674,7 @@
     </item>
     
     <item>
-      <title>Mathematica code to compute distance distributions between two random points, each uniformly randomly distributed in arbitrary (concave or convex) polygons with or without holes is now [posted](http://users.cecs.anu.edu.au/~Salman.Durrani/software.html).</title>
+      <title>Mathematica code to compute distance distributions between two random points, each uniformly randomly distributed in arbitrary (concave or convex) polygons with or without holes is now [posted](https://s-durrani.com/software.html).</title>
       <link>/post/news8/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       <guid>/post/news8/</guid>
@@ -346,14 +686,6 @@
       <link>/post/news7/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       <guid>/post/news7/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Design of Ambient Backscatter Training for Retrodirective Wireless Power Transfer</title>
-      <link>/publication/journal60/</link>
-      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/journal60/</guid>
       <description></description>
     </item>
     
@@ -438,18 +770,10 @@
     </item>
     
     <item>
-      <title>I have been awarded a [Special Commendation](https://users.cecs.anu.edu.au/~Salman.Durrani/_images/acgr.jpg) in the [2019 ACGR Award for Excellence in Graduate Supervision](https://www.acgr.edu.au/about/awards-for-excellence/). [[Photo](https://users.cecs.anu.edu.au/~Salman.Durrani/_images/DSC_0309.JPG)].</title>
+      <title>I have been awarded a [Special Commendation](../files/acgr.jpg) in the [2019 ACGR Award for Excellence in Graduate Supervision](https://www.acgr.edu.au/about/awards-for-excellence/). [[Photo](../files/DSC_0309.JPG)].</title>
       <link>/post/news5/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       <guid>/post/news5/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Distance Distribution Between Two Random Nodes in Arbitrary Polygons</title>
-      <link>/publication/journal64/</link>
-      <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/journal64/</guid>
       <description></description>
     </item>
     
@@ -598,7 +922,7 @@ Three
     </item>
     
     <item>
-      <title> I gave a talk at the inaugural [ANU TELfest](https://telfest.weblogs.anu.edu.au/). My slides are available [here](http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/Slides/Durrani%20Telfest%20Nov2018.pdf) and presentation is available on [YouTube](https://www.youtube.com/watch?v=XXuyRHYoETI).</title>
+      <title> I gave a talk at the inaugural [ANU TELfest](https://telfest.weblogs.anu.edu.au/). My talk is available on [YouTube](https://www.youtube.com/watch?v=XXuyRHYoETI).</title>
       <link>/post/news4/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
       <guid>/post/news4/</guid>
@@ -646,7 +970,7 @@ Three
     </item>
     
     <item>
-      <title>Former PhD student Wanchun Liu wins the [2017 Chinese Government Award for Outstanding Self-Financed Students Abroad](https://users.cecs.anu.edu.au/~Salman.Durrani/_photos/Wanchun_certificate.pdf).</title>
+      <title>Former PhD student Wanchun Liu wins the [2017 Chinese Government Award for Outstanding Self-Financed Students Abroad](../files/Wanchun_certificate.pdf).</title>
       <link>/post/news3/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       <guid>/post/news3/</guid>
@@ -774,7 +1098,7 @@ Three
     </item>
     
     <item>
-      <title>Our edited book on wireless power transfer (over 11,000&#43; chapter downloads to date) is now published by [Springer](https://link.springer.com/book/10.1007/978-3-319-56669-6) [[Downloads](http://www.bookmetrix.com/detail/book/93f5d1fb-b0f7-4953-9a6c-29450962aced#downloads)].</title>
+      <title>Our edited book on wireless power transfer (over 14,000&#43; chapter downloads to date) is now published by [Springer](https://link.springer.com/book/10.1007/978-3-319-56669-6).</title>
       <link>/post/news1/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
       <guid>/post/news1/</guid>
@@ -899,104 +1223,6 @@ Three
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
       <guid>/publication/conf66/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Academic: the website builder for Hugo</title>
-      <link>/post2/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/post2/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://sourcethemes.com/academic/#expo&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;👉 &lt;a href=&#34;#install&#34;&gt;&lt;strong&gt;Get Started&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;📚 &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34;&gt;View the &lt;strong&gt;documentation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💬 &lt;a href=&#34;https://discourse.gohugo.io&#34;&gt;&lt;strong&gt;Ask a question&lt;/strong&gt; on the forum&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;👥 &lt;a href=&#34;https://spectrum.chat/academic&#34;&gt;Chat with the &lt;strong&gt;community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/source_themes&#34;&gt;@source_themes&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%23MadeWithAcademic&amp;amp;src=typd&#34;&gt;#MadeWithAcademic&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💡 &lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;⬆️ &lt;strong&gt;Updating?&lt;/strong&gt; View the &lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;❤ &lt;strong&gt;Support development&lt;/strong&gt; of Academic:
-&lt;ul&gt;
-&lt;li&gt;☕️ &lt;a href=&#34;https://paypal.me/cushen&#34;&gt;&lt;strong&gt;Donate a coffee&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💵 &lt;a href=&#34;https://www.patreon.com/cushen&#34;&gt;Become a backer on &lt;strong&gt;Patreon&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🖼️ &lt;a href=&#34;https://www.redbubble.com/people/neutreno/works/34387919-academic&#34;&gt;Decorate your laptop or journal with an Academic &lt;strong&gt;sticker&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;👕 &lt;a href=&#34;https://academic.threadless.com/&#34;&gt;Wear the &lt;strong&gt;T-shirt&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;👩‍💻 &lt;a href=&#34;https://sourcethemes.com/academic/docs/contribute/&#34;&gt;&lt;strong&gt;Contribute&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; data-caption=&#34;Academic is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34;&gt;
-&lt;img data-src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Academic is mobile first with a responsive design to ensure that your site looks stunning on every device.
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
-&lt;p&gt;&lt;strong&gt;Key features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://sourcethemes.com/academic/docs/page-builder/&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://sourcethemes.com/academic/docs/jupyter/&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://sourcethemes.com/academic/themes/&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 15+ language packs including English, 中文, and Português&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-&lt;p&gt;Academic comes with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can  choose their preferred mode - click the sun/moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/themes/&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully &lt;a href=&#34;https://sourcethemes.com/academic/docs/customization/#custom-theme&#34;&gt;customizable&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-admin&#34;&gt;Academic Admin&lt;/a&gt;:&lt;/strong&gt; An admin tool to import publications from BibTeX or import assets for an offline site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-scripts&#34;&gt;Academic Scripts&lt;/a&gt;:&lt;/strong&gt; Scripts to help migrate content to new versions of Academic&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;install&#34;&gt;Install&lt;/h2&gt;
-&lt;p&gt;You can choose from one of the following four methods to install:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-web-browser&#34;&gt;&lt;strong&gt;one-click install using your web browser (recommended)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-git&#34;&gt;install on your computer using &lt;strong&gt;Git&lt;/strong&gt; with the Command Prompt/Terminal app&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-zip&#34;&gt;install on your computer by downloading the &lt;strong&gt;ZIP files&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34;&gt;install on your computer with &lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Then &lt;a href=&#34;https://sourcethemes.com/academic/docs/get-started/&#34;&gt;personalize and deploy your new site&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;updating&#34;&gt;Updating&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34;&gt;View the Update Guide&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Feel free to &lt;em&gt;star&lt;/em&gt; the project on &lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34;&gt;Github&lt;/a&gt; to help keep track of &lt;a href=&#34;https://sourcethemes.com/academic/updates&#34;&gt;updates&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -1800,56 +2026,11 @@ Three
     </item>
     
     <item>
-      <title>Advice for International Students</title>
-      <link>/project/phd/</link>
+      <title>Design of Ambient Backscatter Training for Retrodirective Wireless Power Transfer</title>
+      <link>/publication/journal60/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/project/phd/</guid>
-      <description>&lt;p&gt;If you are considering to apply for PhD scholarship and admission at ANU, information on this page should be of interest to you.&lt;/p&gt;
-&lt;h3 id=&#34;1-wireless-communications-and-signal-processing-at-anu&#34;&gt;&lt;strong&gt;1. Wireless communications and Signal processing at ANU&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;The Australian National University (ANU) is one of the world&amp;rsquo;s foremost research universities. Information about ANU&amp;rsquo;s national and international ranking is available &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/links.html&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;The &lt;a href=&#34;http://asp.cecs.anu.edu.au/research&#34;&gt;ASP research group&lt;/a&gt; in the Research School of Engineering at ANU actively conducts research in the fields of wireless communications and signal processing.&lt;/p&gt;
-&lt;h3 id=&#34;2-international-postgraduate-research-scholarship-iprs&#34;&gt;&lt;strong&gt;2. International Postgraduate Research Scholarship (IPRS)&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;IPRS is an Australian government funded scholarship which provides tuition fee for top international students wanting to do PhD in Australia. Details about IPRS allocation, ANU IPRS requirements and application forms is available in the links on the following &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/research.html&#34;&gt;page&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;In general, international students also have to apply for additional scholarship (e.g. ANU PhD scholarship) to cover the living expenses.&lt;/p&gt;
-&lt;p&gt;Deadline for IPRS applications is &lt;strong&gt;31 August&lt;/strong&gt; (for PhD commencing in Feb./March next year).&lt;/p&gt;
-&lt;h3 id=&#34;3-academic-record&#34;&gt;&lt;strong&gt;3. Academic Record&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;IPRS is an extremely competitive scholarship. Students must have a brilliant undergraduate academic record (generally speaking a 1st class honours with at least 85% marks) and need to be academically in the top 5% of their graduating class.&lt;/p&gt;
-&lt;p&gt;Complete detail of academic honours and awards should be provided with the IPRS application.&lt;/p&gt;
-&lt;h3 id=&#34;4-research-experiencepotential&#34;&gt;&lt;strong&gt;4. Research Experience/Potential&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;Students applying for IPRS are generally expected to provide evidence of having undertaken research (in the form of published or submitted papers). This is especially relevant to students applying for IPRS on the basis of a completed Masters degree. For fresh undergraduate students, research potential can be demonstrated via outstanding academic record and projects/internships undertaken during the course of the degree. Any relevant work experience can also be used to demonstrate research capability.&lt;/p&gt;
-&lt;h3 id=&#34;5-ielts&#34;&gt;&lt;strong&gt;5. IELTS&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;Students must have excellent written and oral English communication skills. If English is not your native language, you need to provide evidence of English language ability, generally via an IELTS test result. For more details, see &lt;a href=&#34;https://policies.anu.edu.au/ppl/document/ANUP_000408&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;h3 id=&#34;6-prospective-supervisor&#34;&gt;&lt;strong&gt;6. Prospective Supervisor&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;It is recommended that students contact a prospective supervisor prior to submitting their IPRS application. A supervisor&amp;rsquo;s support can significantly increase the chances of scholarship success. Students should look at the staff web pages to gain information about on-going and future research projects and then contact prospective supervisors directly (via email) to discuss project opportunities.&lt;/p&gt;
-&lt;h3 id=&#34;7-research-proposal&#34;&gt;&lt;strong&gt;7. Research Proposal&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;A 1-2 page research proposal is expected with an IPRS application. The proposal should identify the proposed project title and PhD supervisor and should be finalised in consultation with the PhD supervisor. It should briefly describe the research problem and key objectives. It can also briefly discuss any relevant issues such as reason for choosing ANU.&lt;/p&gt;
-&lt;h3 id=&#34;8-students-from-pakistan&#34;&gt;&lt;strong&gt;8. Students from Pakistan&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;Students from Pakistan are eligible to apply for &lt;a href=&#34;https://aei.gov.au/scholarships-and-fellowships/international-applicants/pages/international-applicants.aspx&#34;&gt;Endeavour scholarship&lt;/a&gt;.&lt;/p&gt;
-&lt;h3 id=&#34;9-students-from-china&#34;&gt;&lt;strong&gt;9. Students from China&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;Students from China are eligible to apply for &lt;a href=&#34;https://aei.gov.au/scholarships-and-fellowships/international-applicants/pages/international-applicants.aspx&#34;&gt;Endeavour scholarship&lt;/a&gt; as well as the &lt;a href=&#34;http://www.anu.edu.au/students/scholarships-support/anu-csc-scholarship&#34;&gt;ANU-CSC scholarship&lt;/a&gt;.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;small&gt; Disclaimer:- This is a personal home page and the advice and contents do not represent official University views. &lt;/small&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Magazine: &lt;a href=&#34;https://jwcn-eurasipjournals.springeropen.com/articles/10.1186/s13638-019-1391-7&#34;&gt;[1]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Journals: &lt;a href=&#34;https://ieeexplore.ieee.org/document/8488493&#34;&gt;[1]&lt;/a&gt;, &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/8943207&#34;&gt;[2]&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/1910.13595&#34;&gt;[3]&lt;/a&gt;, [4] (draft)&lt;/li&gt;
-&lt;li&gt;Conference: &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2018/C2_icc2018.pdf&#34;&gt;[1]&lt;/a&gt;, [2] (under review)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Device to Device (D2D) and Machine to Machine (M2M) Communication</title>
-      <link>/project/d2d_m2m/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/project/d2d_m2m/</guid>
-      <description>&lt;p&gt;D2D communication allowing direct communication between nearby users has been envisaged in 3GPP standards. In D2D-enabled cellular networks, the cellular and D2D users can share the spectrum resources in two ways: in-band where D2D communications utilizes the cellular spectrum and out-of-band where D2D communications utilizes the unlicensed spectrum. In-band D2D can be further divided into two categories: overlay where the cellular and D2D communications use orthogonal (i.e., dedicated) spectrum resources and underlay where D2D users share the same spectrum resources occupied by the cellular users&lt;/p&gt;
-&lt;p&gt;Machine type communication (MTC) is also envisaged to play a key role within future fifth generation networks. MTC can be classified intotwo types:massive machine type communication (mMTC) and ultra-reliable machine type communication(uMTC).&lt;/p&gt;
-&lt;p&gt;Specific contributions include D2D mode selection, resource allocation and stochastic analysis and massive MTC solutions.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Journals: &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2016_ieeetcom.pdf&#34;&gt;[1]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2017_twc.pdf&#34;&gt;[2]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2017_ieeetcom_jing.pdf&#34;&gt;[3]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2018_ieeetvt.pdf&#34;&gt;[4]&lt;/a&gt;, &lt;a href=&#34;https://ieeexplore.ieee.org/document/8472252&#34;&gt;[5]&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/1904.01730&#34;&gt;[6]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Conference: &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2015/pimrc2015.pdf&#34;&gt;[1]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2016/C2_ausctw2016.pdf&#34;&gt;[2]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2016/C7_icspcs2016.pdf&#34;&gt;[3]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2017/C5_vtc2017.pdf&#34;&gt;[4]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2017/C6_pimrc2017.pdf&#34;&gt;[5]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2017/C7_globecom2017.pdf&#34;&gt;[6]&lt;/a&gt;, &lt;a href=&#34;https://ieeexplore.ieee.org/document/8647869&#34;&gt;[7]&lt;/a&gt;, [8]&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>/publication/journal60/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -1858,11 +2039,43 @@ Three
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/project/distance_distributions/</guid>
       <description>&lt;p&gt;Distance distributions can be applied to study important wireless network characteristics such as interference, outage probability, connectivity, routing, and energy consumption. They can also be applied in other branches of science, such as forestry, mathematics, operations research and material sciences. When a fixed and finite number of nodes are uniformly and independently distributed over a finite region such as a square or hexagon (polygon in general), the two important distance distributions are: 1) the pdf of the Euclidean distance between two nodes uniformly and independently distributed inside a polygon and 2) the pdf of the Euclidean distance between any arbitrary reference point and its nth neighbor node when N nodes are uniformly and independently distributed inside a polygon.&lt;/p&gt;
-&lt;p&gt;Specific contributions include modelling of the nth neighbour distance distributions in concave and convex polygons with arbitrary location of the reference point, modelling of connectivity in ad hoc networks and modelling of finite area wireless ad hoc, cognitive networks and D2D networks.&lt;/p&gt;
+&lt;p&gt;Our key contributions are available here(&lt;a href=&#34;https://s-durrani.com/software/)&#34;&gt;https://s-durrani.com/software/)&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Enabling Ultra‐Reliable and Sustainable Machine‐to‐Machine Communications</title>
+      <link>/project/arc_mtom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/arc_mtom/</guid>
+      <description>&lt;p&gt;This was an ARC Discovery Project DP170100939(&lt;a href=&#34;https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP170100939)&#34;&gt;https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP170100939)&lt;/a&gt;. I was lead-CI in the project.&lt;/p&gt;
+&lt;p&gt;Novel solutions for data transmission, low-power backscatter transmission and wireless power transfer have been proposed to provide faster data rate, more reliable connectivity and prolonged network lifetime for machine-to-machine communications and Internet of Things devices and networks. The research outcomes were published in 27 journal papers and 20 conference papers. This includes several highly cited papers. The project involved successful collaboration with researchers from Canada, USA and Hong Kong. The project provided research training to one postdoc and 3 PhD students.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ground Based IoT Sensor Networks for Wildfire Detection</title>
+      <link>/project/bushfire/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/bushfire/</guid>
+      <description>&lt;p&gt;The basic goal of this project is to develop an IoT (internet of things) ground-based sensor system to provide rapid detection of fires in their early stages. This project is funded through the &lt;a href=&#34;https://brcoe.org/project/ground-based-iot-sensor-networks/&#34;&gt;ANU Bushfire Research Centre of Excellence&lt;/a&gt;. The project has resulted in two journal papers and 1 conference paper so far, where I am a co-author.&lt;/p&gt;
+&lt;p&gt;Specific contributions include:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Journals: &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2013_ieeetvt.pdf&#34;&gt;[1]&lt;/a&gt;, &lt;a href=&#34;http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6678301&#34;&gt;[2]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2014_ieeetcom.pdf&#34;&gt;[3]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2015_Mathematica.pdf&#34;&gt;[4]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2015_ieeetcom.pdf&#34;&gt;[5]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2017_twc.pdf&#34;&gt;[6]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2017_wcl_yifei.pdf&#34;&gt;[7]&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/1903.07757&#34;&gt;[8]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Conference: &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2013/ausctw13_C1.pdf&#34;&gt;[1]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2014/globecom14_C7.pdf&#34;&gt;[2]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Survey paper on IoT Ground Sensing Systems for Early Wildfire Detection: &lt;a href=&#34;https://doi.org/10.1109/ACCESS.2024.3501336&#34;&gt;[Magazine paper]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Machine learning based detection algorithm: &lt;a href=&#34;https://s-durrani.com/publication/&#34;&gt;[Journal paper]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Statistical detection algorithm: &lt;a href=&#34;https://s-durrani.com/publication/&#34;&gt;[Conference paper]&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Harnessing Spherical Geometry in Scientific and Engineering Data Processing</title>
+      <link>/project/arc_spherical_signal_processing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/arc_spherical_signal_processing/</guid>
+      <description>&lt;p&gt;This was an ARC Discovery Project DP150101011(&lt;a href=&#34;https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP150101011)&#34;&gt;https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP150101011)&lt;/a&gt;. I was a co-CI in the project.&lt;/p&gt;
+&lt;p&gt;Novel solutions for sampling and spherical signal processing have been proposed to process data in real world applications such as biomedical imaging, astronomy and acoustic signal processing. The research outcomes were published in 8 journal papers and 12 conference papers. The project involved successful collaborations with researchers from Europe. The project provided research training to 4 postdocs and 2 PhD students.&lt;/p&gt;
+&lt;p&gt;My PhD student and later postdoc Zubair Khalid was funded through this grant. Zubair Khalid was a part of the team which recently won the prestigious &lt;a href=&#34;https://awards.acm.org/bell-climate&#34;&gt;Gordon Bell Prize for Climate Modelling&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -1871,69 +2084,60 @@ Three
       <link>/project/machine_learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/project/machine_learning/</guid>
-      <description>&lt;p&gt;Machine learning is expected to play a key role in 6G wireless networks. I have one PhD student working in this area. A number of existing PhD students are also planning to consider future works in this area. I am keen to recruit more PhD students in this area.&lt;/p&gt;
+      <description>&lt;p&gt;Machine learning is expected to play a key role in 6G wireless networks. Many of my past and current PhD students have used machine learning tools and paradigms in their research. This research work is carried out using &lt;a href=&#34;https://nci.org.au/&#34;&gt;NCI Australia&lt;/a&gt; computing facilities.&lt;/p&gt;
+&lt;p&gt;Examples include:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Journals: [1] (draft)&lt;/li&gt;
-&lt;li&gt;Conference: To do&lt;/li&gt;
+&lt;li&gt;Unsupervised learning in IRS-Assisted Monostatic Backscatter Systems: &lt;a href=&#34;https://doi.org/10.1109/TMLCN.2024.3355317&#34;&gt;[Journal paper]&lt;/a&gt; and &lt;a href=&#34;https://doi.org/10.1109/ICASSP43922.2022.9746747&#34;&gt;[Conference paper]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Attention-Based BiLSTM Network for grant free NOMA: &lt;a href=&#34;https://doi.org/10.1109/OJCOMS.2023.3292820&#34;&gt;[Journal]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Federated learning for IoT networks:&lt;a href=&#34;https://doi.org/10.1109/JIOT.2022.3165596&#34;&gt;[Journal paper]&lt;/a&gt; and &lt;a href=&#34;https://doi.org/10.1109/ICCWorkshops53468.2022.9814533&#34;&gt;[Conference paper]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Transfer learning for IRS: &lt;a href=&#34;https://doi.org/10.1109/PIMRC50174.2021.9569500&#34;&gt;[Conference paper]&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;I am keen to recruit more PhD students in this area. If you are interested, please contact me.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Spherical Signal Processing</title>
-      <link>/project/spherical_signal_processing/</link>
+      <title>Spectrum Allocation with Adaptive Sub‐band Bandwidth for Terahertz Communication Systems</title>
+      <link>/publication/journal63/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/project/spherical_signal_processing/</guid>
-      <description>&lt;p&gt;Signals that are inherently defined on the unit sphere appear in various fields of science and engineering such as medical image analysis, geodesy, computer graphics, planetary science, electromagnetic inverse problems, cosmology, 3D beamforming and wireless channel modeling.&lt;/p&gt;
-&lt;p&gt;Specific contributions include extension of Euclidean signal processing techniques to the sphere and development of new spatio-spectral signal transformation and filtering techniques.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Journals: &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2012_ieeetsp_z.pdf&#34;&gt;[1]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2013_ieeetsp.pdf&#34;&gt;[2]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2013_ieeetsp_z.pdf&#34;&gt;[3]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2016_ieeespl.pdf&#34;&gt;[4]&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Conference: &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2011/icassp11_z.pdf&#34;&gt;[1]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2011/icspcs11_z.pdf&#34;&gt;[2]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2012/icassp12_C3.pdf&#34;&gt;[3]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2012/icassp12_C2.pdf&#34;&gt;[4]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2012/icassp12_C1.pdf&#34;&gt;[5]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2013/spie13_C4.pdf&#34;&gt;[6]&lt;/a&gt; (invited paper), &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2014/icassp14_C1.pdf&#34;&gt;[7]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2014/ssp14_C6_z.pdf&#34;&gt;[8]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2017/C1_icassp2017.pdf&#34;&gt;[9]&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
+      <guid>/publication/journal63/</guid>
+      <description>&lt;p&gt;9667397&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Synchronization</title>
-      <link>/project/synchronization/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/project/synchronization/</guid>
-      <description>&lt;p&gt;Timing and carrier synchronization is a fundamental requirement for any wireless communications system to work properly. Timing synchronization is the process by which a receiver node determines the correct instants of time at which to sample the incoming signal. Carrier synchronization is the process by which a receiver adapts the frequency and phase of its local carrier oscillator with those of the received signal.&lt;/p&gt;
-&lt;p&gt;Specific contributions include both blind and pilot based algorithms for timing and carrier synchronization and channel estimation in OFDM, coperative, distributed, multi-way, mmwave and full duplex networks.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Magazine: &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2016_eurasip.pdf&#34;&gt;[1]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Journals: &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2010_ieeetwcom.pdf&#34;&gt;[1]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2009_ieeetwcom.pdf&#34;&gt;[2]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2009_ieeetsp.pdf&#34;&gt;[3]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2011_iet.pdf&#34;&gt;[4]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2012_ieeetsp_a.pdf&#34;&gt;[5]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2012_ieeetcom.pdf&#34;&gt;[6]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2013_ieeetcom.pdf&#34;&gt;[7]&lt;/a&gt;, &lt;a href=&#34;http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6868950&#34;&gt;[8]&lt;/a&gt;, &lt;a href=&#34;http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7065207&#34;&gt;[9]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2016_jcn.pdf&#34;&gt;[10]&lt;/a&gt;, &lt;a href=&#34;https://link.springer.com/content/pdf/10.1186/s13634-018-0529-9.pdf&#34;&gt;[11]&lt;/a&gt;, &lt;a href=&#34;https://asp-eurasipjournals.springeropen.com/articles/10.1186/s13634-019-0614-8&#34;&gt;[12]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Conference: &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/pimrc08_2.pdf&#34;&gt;[1]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/iccs2008.pdf&#34;&gt;[2]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/Globecom09.pdf&#34;&gt;[3]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/ausctw10.pdf&#34;&gt;[4]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/icfcc10_o.pdf&#34;&gt;[5]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/icfcc10_a.pdf&#34;&gt;[6]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/icspcs10_a.pdf&#34;&gt;[7]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/icassp11_a.pdf&#34;&gt;[8]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/icc11.pdf&#34;&gt;[9]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/icspcs11_a.pdf&#34;&gt;[10]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/icc12_C4.pdf&#34;&gt;[11]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/spawc13_C3.pdf&#34;&gt;[12]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/spawc14_C4.pdf&#34;&gt;[13]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/iscit2015.pdf&#34;&gt;[14]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/C4_wcnc2016.pdf&#34;&gt;[15]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/C2_icc2017.pdf&#34;&gt;[16]&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>UAV Communications</title>
+      <title>UAV and Satellite Communications</title>
       <link>/project/uav/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/project/uav/</guid>
-      <description>&lt;p&gt;UAVs as aerial base stations or as aerial users are expected to play a key part in 5G and beyond 5G communications.&lt;/p&gt;
-&lt;p&gt;Specific contributions include: Stadium use case for UAV base station,  UAV to support rapid information dissemination in a public safety scenario and trajectory modelling or cellular connected UAVs.&lt;/p&gt;
+      <description>&lt;p&gt;The basic goal of this project is to investigate and propose novel strategies to leverage UAV and Satellite communications in 5G and beyond 5G communications. The project has resulted in two PhD theses, one undergraduate hons thesis, 8 journal papers and 5 conference papers so far.&lt;/p&gt;
+&lt;p&gt;Specific contributions include:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Magazine: &lt;a href=&#34;https://jwcn-eurasipjournals.springeropen.com/articles/10.1186/s13638-019-1391-7&#34;&gt;[1]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Journals: &lt;a href=&#34;https://ieeexplore.ieee.org/document/8488493&#34;&gt;[1]&lt;/a&gt;, &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/8943207&#34;&gt;[2]&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/1910.13595&#34;&gt;[3]&lt;/a&gt;, [4] (draft)&lt;/li&gt;
-&lt;li&gt;Conference: &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2018/C2_icc2018.pdf&#34;&gt;[1]&lt;/a&gt;, [2] (under review)&lt;/li&gt;
+&lt;li&gt;Stadium use case for UAV base station: &lt;a href=&#34;https://doi.org/10.1109/JIOT.2018.2875166&#34;&gt;[Journal paper]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;UAV to support rapid information dissemination in a public safety scenario: &lt;a href=&#34;https://doi.org/10.1109/ACCESS.2019.2962224&#34;&gt;[Journal paper]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Trajectory modelling for cellular connected UAVs: &lt;a href=&#34;https://doi.org/10.1109/ICC40277.2020.9149407&#34;&gt;[Journal paper]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Multitier UAV network with beam misalignments: &lt;a href=&#34;https://doi.org/10.1109/JIOT.2023.3299279&#34;&gt;[Journal paper]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;UAV with caching and multicasting for file sharing in temporary events: &lt;a href=&#34;https://doi.org/10.1109/TCOMM.2024.3369725&#34;&gt;[Journal paper]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;UAV aggregator for IoT monitoring network with reliability and latency requirements: &lt;a href=&#34;&#34;&gt;[Journal paper]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;UAV-assisted maritime-satellite communication network: &lt;a href=&#34;&#34;&gt;[Journal paper]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Authentication in LEO Satellite-Based IoT Networks with UAV eavesdropper: &lt;a href=&#34;&#34;&gt;[Journal paper]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;UAV and SWIPT: &lt;a href=&#34;https://doi.org/10.1109/ICCWorkshops53468.2022.9814490&#34;&gt;[Conference paper]&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;For an overview of how UAVs are currently being used in a wide range of industries across Australia, see here(&lt;a href=&#34;https://www.drones.gov.au/benefits-and-use-cases-drones)&#34;&gt;https://www.drones.gov.au/benefits-and-use-cases-drones)&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Wireless Power Transfer, Energy Harvesting and Backscatter Communications</title>
-      <link>/project/backscatter_communications/</link>
+      <title>Ultra-Fast and Secure Terahertz Communications for 6G Wireless Systems</title>
+      <link>/project/arc_thz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/project/backscatter_communications/</guid>
-      <description>&lt;p&gt;Radio frequency (RF) enabled simultaneous information and power transfer (SWIPT) has emerged as an attractive solution to power future wireless networks. There are three main architectures for SWIPT: (i) integrated SWIPT enables information and power to be extracted from the same signal transmitted by a base station, (ii) closed-loop SWIPT utilizes downlink from base station to users for power transfer (PT) and uplink for information transmission (IT), and (iii) decoupled SWIPT overlays traditional cellular networks with special power beacons (PBs), which do not require a backhaul link, to provide dedicated PT.&lt;/p&gt;
-&lt;p&gt;Specific contributions include (i) SWIPT for relaying, cooperative, ad hoc, physical layer security and sensor network scenarios, (ii) decoupled SWIPT (i.e., power beacons) for ad hoc and millimeter wave networks and (iii) Backscatter communications for ultra low power communications in Internet of Things (IoT).&lt;/p&gt;
+      <guid>/project/arc_thz/</guid>
+      <description>&lt;p&gt;This is an ongoing ARC Discovery Project DP230100878 (&lt;a href=&#34;https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP230100878)&#34;&gt;https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP230100878)&lt;/a&gt;. I am a co-CI in the project.&lt;/p&gt;
+&lt;p&gt;My specific contributions related to THz include:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Magazine: &lt;a href=&#34;https://jwcn-eurasipjournals.springeropen.com/articles/10.1186/s13638-019-1391-7&#34;&gt;[1]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Journals: &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2013_ieetwcom.pdf&#34;&gt;[1]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2015_ieeetcom_2.pdf&#34;&gt;[2]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2015_ieeewcl_jing.pdf&#34;&gt;[3]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2015_ieeewcl_katrina.pdf&#34;&gt;[4]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2016_twc.pdf&#34;&gt;[5]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2016_ieeetwc.pdf&#34;&gt;[6]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2016_ieeetvt.pdf&#34;&gt;[7]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2016_ieeecoml.pdf&#34;&gt;[8]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2017_ieeetwc_wanchun.pdf&#34;&gt;[9]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2017_ieeetcom_wanchun.pdf&#34;&gt;[10]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2018_ieeetcom_katrina.pdf&#34;&gt;[11]&lt;/a&gt;, &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/8439079/&#34;&gt;[12]&lt;/a&gt;, &lt;a href=&#34;https://ieeexplore.ieee.org/document/8385170/&#34;&gt;[13]&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/1909.00631&#34;&gt;[14]&lt;/a&gt;, &lt;a href=&#34;&#34;&gt;[15]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Conference: &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2014/icc14_C3.pdf&#34;&gt;[1]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2015/ict2015c.pdf&#34;&gt;[2]&lt;/a&gt; (invited paper), &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2015/ict2015b.pdf&#34;&gt;[3]&lt;/a&gt; (invited paper), &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2015/icc2015_b.pdf&#34;&gt;[4]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2015/icc2015_a.pdf&#34;&gt;[5]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2015/wcsp2015.pdf&#34;&gt;[6]&lt;/a&gt; (invited paper), &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2015/globalsip2015.pdf&#34;&gt;[7]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2015/globecom2015.pdf&#34;&gt;[8]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2016/C3_wcncw2016.pdf&#34;&gt;[9]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2016/C5_icc2016.pdf&#34;&gt;[10]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2017/C3_icc2017.pdf&#34;&gt;[11]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2017/C9_globecom2017.pdf&#34;&gt;[12]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2018/C3_iswc2018.pdf&#34;&gt;[13]&lt;/a&gt; (invited paper), [14], [15]&lt;/li&gt;
+&lt;li&gt;Coverage analysis for THz: &lt;a href=&#34;https://doi.org/10.1109/JSAC.2021.3071840&#34;&gt;[Journal paper]&lt;/a&gt; and &lt;a href=&#34;https://s-durrani.com/publication/&#34;&gt;[Conference paper]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Improved coverage analysis for THz:  &lt;a href=&#34;https://s-durrani.com/publication/&#34;&gt;[Journal paper]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Sub‐Band Assignment and Power Allocation With Beam Multiplexing and Aggregation in Terahertz Communications: &lt;a href=&#34;https://s-durrani.com/publication/&#34;&gt;[Conference paper]&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

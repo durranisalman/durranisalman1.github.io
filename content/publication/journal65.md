@@ -22,7 +22,7 @@ publication_short: ""
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10093957
+url_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10093957"
 url_code: ''
 url_dataset: ''
 url_poster: ''

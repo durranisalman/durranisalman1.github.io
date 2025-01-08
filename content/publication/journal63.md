@@ -9,7 +9,7 @@ authors:
 - admin
 - J. M. Jornet
 
-date: "2021-11-10"
+date: "2022-02-1"
 doi: "10.1109/TCOMM.2021.3139887"
 
 # Publication type.
@@ -25,7 +25,7 @@ publication_short: ""
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://ieeexplore.ieee.org/iel7/26/5497975/09667397.pdf"
+url_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9751049"
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -35,4 +35,5 @@ url_source: ''
 url_video: ''
 ---
 
+9667397
 
