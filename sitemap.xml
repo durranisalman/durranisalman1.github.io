@@ -43,6 +43,16 @@
   </url>
   
   <url>
+    <loc>/post/</loc>
+    <lastmod>2025-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/news20/</loc>
+    <lastmod>2025-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/admin/</loc>
     <lastmod>2025-01-05T00:00:00+00:00</lastmod>
   </url>
@@ -170,16 +180,6 @@
   <url>
     <loc>/authors/t.-ilyas/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2024-11-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/news20/</loc>
-    <lastmod>2024-11-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1600,15 +1600,19 @@
   </url>
   
   <url>
-    <loc>/project/d2d_m2m/</loc>
-  </url>
-  
-  <url>
     <loc>/project/distance_distributions/</loc>
   </url>
   
   <url>
+    <loc>/project/arc_mtom/</loc>
+  </url>
+  
+  <url>
     <loc>/project/bushfire/</loc>
+  </url>
+  
+  <url>
+    <loc>/project/arc_spherical_signal_processing/</loc>
   </url>
   
   <url>
@@ -1628,14 +1632,6 @@
   </url>
   
   <url>
-    <loc>/project/spherical_signal_processing/</loc>
-  </url>
-  
-  <url>
-    <loc>/project/synchronization/</loc>
-  </url>
-  
-  <url>
     <loc>/tags/</loc>
   </url>
   
@@ -1644,7 +1640,7 @@
   </url>
   
   <url>
-    <loc>/project/backscatter_communications/</loc>
+    <loc>/project/arc_thz/</loc>
   </url>
   
 </urlset>
